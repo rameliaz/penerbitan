@@ -13,15 +13,22 @@ website:
   title: "Workshop Penerbitan Ilmiah"
   navbar:
     left:
-      - text: "Beranda"
-        href: index.html
+      - href: https://rameliaz.github.io/
+        icon: house
+        text: "oleh Rizqy Amelia Zein"
+      - icon: github
+        href: https://github.com/rameliaz/penerbitan
     right:
-      - text: "Materi (HTML)"
+      - text: "Materi"
         menu:
-          - text: "Bagian 1: Ekosistem Publikasi Ilmiah"
+          - text: "Bagian 1 (html)"
             href: slides/bagian-1.html
-          - text: "Bagian 2: Strategi & Latihan Menulis"
+          - text: "Bagian 1 (pdf)"
+            href: slides/bagian-1.html?print-pdf  
+          - text: "Bagian 2 (html)"
             href: slides/bagian-2.html
+          - text: "Bagian 2 (pdf)"
+            href: slides/bagian-2.html?print-pdf  
       - text: "Survei"
         menu:
           - text: "Evaluasi Workshop"
