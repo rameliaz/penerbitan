@@ -6,8 +6,8 @@ project:
     - slides/bagian-1.qmd
     - slides/bagian-2.qmd
   resources:
-    - _extensions/rameliaz/unair/logo.png
-    - _extensions/rameliaz/unair/logo_white.png
+    - _extensions/
+    - libs/
 
 website:
   title: "Workshop Publikasi Ilmiah"

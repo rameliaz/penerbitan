@@ -4,6 +4,7 @@ subtitle: "_Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral_: Bagian 2️⃣
 author: "Rizqy Amelia Zein"
 institute:
   - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+  - "[Research Data & Methods Team, Center for Advanced Internet Studies](https://www.cais-research.de/team/rizqy-amelia-zein/)"
 date: today
 format:
   unair-revealjs:
@@ -157,8 +158,8 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 * Jika tidak setuju dengan *reviewer*: boleh, tapi **wajib** berikan argumen yang kuat dan berdasar
 * *Major revision* bukan penolakan — ini kesempatan untuk memperbaiki naskah
 * Berikut contoh _response to reviewers_ yang paling panjang yang pernah saya tulis
-  - **Contoh 1**: [Zein, R. A., Heene, M., & Gollwitzer, M.](libs/response_letter_firstround_final.pdf) (2025). Stage 2 Registered Report: Measuring How Individuals Relate Science to Religion. The International Journal for the Psychology of Religion. https://doi.org/10.1080/10508619.2025.2535033.
-  - **Contoh 2**: [Zein, R. A. & Akhtar, H.](libs/response_letter_final.pdf) (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. https://doi.org/10.1002/ijop.13265
+  - **Contoh 1**: [Zein, R. A., Heene, M., & Gollwitzer, M.](/slides/libs/response_letter_firstround_final.pdf) (2025). Stage 2 Registered Report: Measuring How Individuals Relate Science to Religion. The International Journal for the Psychology of Religion. https://doi.org/10.1080/10508619.2025.2535033.
+  - **Contoh 2**: [Zein, R. A. & Akhtar, H.](/slides/libs/response_letter_final.pdf) (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. https://doi.org/10.1002/ijop.13265
 :::
 
 # Integritas riset dan etika publikasi {background-color="#14497F" .center}
