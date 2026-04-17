@@ -1,5 +1,5 @@
 ---
-title: "Strategi Publikasi & Latihan Menulis"
+title: "Strategi Publikasi"
 subtitle: "_Workshop Publikasi Ilmiah untuk Mahasiswa Doktoral_: Bagian 2️⃣"
 author: "Rizqy Amelia Zein"
 institute:

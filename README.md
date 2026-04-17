@@ -4,7 +4,7 @@ Materi workshop **Publikasi Ilmiah** untuk mahasiswa doktoral Program Studi S3 P
 
 🗓️ **Jumat–Sabtu, 22–23 Mei 2026, pukul 13.00–15.00 WIB** — daring via Microsoft Teams
 
-🌐 **Website**: [rameliaz.github.io/penerbitan](https://rameliaz.github.io/penerbitan)
+🌐 **Website**: [rameliaz.github.io/publikasi](https://rameliaz.github.io/publikasi)
 
 ---
 
@@ -18,14 +18,15 @@ Workshop terdiri dari dua blok masing-masing 2 jam.
 
 - Tujuan dan peran publikasi ilmiah
 - Moda komunikasi kesarjanaan & jenis artikel (*original research*, *systematic/scoping review*, dll.)
-- Lanskap jurnal: penerbit, pangkalan data (Scopus, WoS, SINTA), *open access* vs. *paywalled*
+- Lanskap jurnal: penerbit, pangkalan data (Scopus, WoS, SINTA), jenis *open access* (Gold, Diamond, Green, Hybrid)
 - Mengenali jurnal/penerbit pemangsa (*predatory*)
 - Proses editorial: *submission*, *desk rejection*, *peer-review*, revisi, hingga terbit
 - Struktur naskah IMRAD dan panduan PRISMA untuk *meta studies*
+- Naskah yang layak terbit: dimensi konten dan presentasi; penolakan sebagai bagian dari proses
 - Menulis *Introduction*, *Discussion*, dan *Abstract* yang efektif
 - **Latihan**: *elevator pitch* (3–4 kalimat)
 
-### Blok 2 — Strategi Publikasi & Latihan Menulis
+### Blok 2 — Strategi Publikasi
 
 > `slides/bagian-2.qmd`
 
@@ -35,6 +36,7 @@ Workshop terdiri dari dua blok masing-masing 2 jam.
 - Krisis replikasi dan prinsip *open science*
 - Manajemen data penelitian (RDM): prinsip FAIR, *open data policy*, deposit di OSF/Zenodo
 - **Latihan**: *scientific sell* (1 paragraf, 150–200 kata)
+- Menggunakan LLM dalam riset dan penulisan ilmiah
 
 ---
 
@@ -66,7 +68,7 @@ Output ditempatkan di folder `docs/` dan di-deploy via GitHub Pages.
 ## Struktur Repositori
 
 ```
-penerbitan/
+publikasi/
 ├── _quarto.yml              # konfigurasi website & format
 ├── index.qmd                # halaman utama website
 ├── slides/
