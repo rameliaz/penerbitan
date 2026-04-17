@@ -22,7 +22,7 @@ execute:
 * Strategi memilih jurnal yang tepat
 * Integritas riset dan etika publikasi
 * Manajemen data penelitian (*research data management*)
-* Latihan menulis: *elevator pitch* dan *scientific sell*
+* Latihan menulis: *scientific sell*
 * Sumber belajar lanjutan
 
 # Strategi memilih jurnal yang tepat {background-color="#14497F" .center}

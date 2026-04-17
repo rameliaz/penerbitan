@@ -2,7 +2,7 @@
 title: "_Workshop_ Publikasi Ilmiah"
 ---
 
-Selamat datang di halaman _workshop_ **Publikasi Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi S3 Psikologi, Universitas Airlangga.
+Selamat datang di halaman **_Workshop_ Publikasi Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi S3 Psikologi, Universitas Airlangga.
 
 ## Tentang _workshop_
 
@@ -50,6 +50,16 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 - Menulis *Discussion* yang efektif: alur, keterbatasan, dan *null results*
 - Menulis *Abstract*: prinsip satu kalimat per bagian IMRAD
 - **Latihan menulis**: *elevator pitch* (3–4 kalimat) 
+
+::: {.callout-tip}
+#### Menulis _methods_ dan _results_
+_Workshop_ ini **tidak akan membahas** secara spesifik bagaimana menulis bagian _methods_ dan _results_ karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.
+
+Cek _Journal Articles Reporting Standards_ (JARS):
+* Untuk penelitian kuantitatif: [_Checklist_](https://apastyle.apa.org/jars/quantitative); [Appelbaum, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-002.pdf)
+* Untuk penelitian kualitatif: [_Checklist_](https://apastyle.apa.org/jars/qualitative); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
+* Untuk penelitian _mixed methods_: [_Checklist_](https://apastyle.apa.org/jars/mixed-methods); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
+:::
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
 

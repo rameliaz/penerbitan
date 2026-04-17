@@ -28,6 +28,7 @@ execute:
 * Naskah yang layak terbit — kualitas dan *mindset*
 * Menulis *Introduction*
 * Menulis *Discussion* dan *Abstract*
+* Latihan menulis: *elevator pitch*
 
 # Mengapa publikasi itu penting? {background-color="#14497F" .center}
 
