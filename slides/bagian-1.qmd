@@ -156,7 +156,7 @@ Tiga komponen utama:
 **Penting**: Terindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada.
 :::
 
-## *Open access* (OA) vs *paywalled journal*
+## *Open access* (OA) vs *non-OA journal*
 
 ::: {.incremental}
 * ***Open access* (OA)**
@@ -174,7 +174,7 @@ Tiga komponen utama:
 Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *non-OA journal* yang kualitasnya rendah.
 :::
 
-## Jenis-jenis jurnal berdasarkan *open access policy*
+## Jurnal berdasarkan *open access policy*
 
 | Jenis | APC | Lisensi | Contoh |
 |---|---|---|---|
@@ -183,16 +183,17 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 | **Green OA** | Tidak ada | Tergantung penulis, umumnya [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | *preprint* di PsyArXiv/OSF |
 | **Hybrid OA** | Opsional, perlu bayar kalau ingin artikel OA | Kalau OA, maka [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | banyak jurnal Elsevier/Wiley |
 
-: {tbl-colwidths="[15,42,18,25]"}
+: {tbl-colwidths="[15,40,20,25]"}
 
-::: {.callout-warning}
-#### Hybrid OA 
-Sering dianggap model yang paling tidak menguntungkan peneliti. Penerbit mendapatkan APC *dan* biaya langganan dari institusi (*"double dipping"*). [*cOAlition S* / *Plan S*](https://www.coalition-s.org/), yaitu koalisi *funder* Eropa yang mencakup Wellcome Trust dan banyak lembaga riset di Eropa (e.g., Deustche Forschungsgemeinschaft (DFG)), secara eksplisit melarang publikasi di jurnal *hybrid* kecuali ada *transformative agreement* antara institusi/konsorsium universitas dengan penerbit.
-:::
+## Jurnal berdasarkan *open access policy*
 
-# Waspada jurnal/penerbit pemangsa {background-color="#14497F" .center}
+* Jurnal _hybrid_ sering dianggap model yang paling tidak menguntungkan peneliti 
+* Penerbit mendapatkan pemasukan dari APC *dan* biaya langganan dari institusi ([*"double dipping"*](https://www.coalition-s.org/why-hybrid-journals-do-not-lead-to-full-and-immediate-open-access/)) 
+* [*cOAlition S* atau *Plan S*](https://www.coalition-s.org/), yaitu koalisi *funder* Eropa yang mencakup Wellcome Trust dan banyak lembaga riset di Eropa (e.g., Deustche Forschungsgemeinschaft (DFG)), secara eksplisit melarang publikasi di jurnal *hybrid* kecuali ada *transformative agreement* antara institusi/konsorsium universitas dengan penerbit.
 
-## Ciri-ciri jurnal/penerbit pemangsa
+# Waspada jurnal/penerbit pemangsa😼 {background-color="#14497F" .center}
+
+## Karakteristik jurnal/penerbit pemangsa
 
 ::: {.incremental}
 * Sebenarnya, istilah "jurnal/penerbit pemangsa" [sangat sulit didefinisikan](https://www.nature.com/articles/d41586-019-03759-y)
@@ -223,13 +224,13 @@ Sering dianggap model yang paling tidak menguntungkan peneliti. Penerbit mendapa
 ![](https://thinkchecksubmit.org/wp-content/uploads/2024/10/TCS-Social-Media-LinkedIn-0.png){fig-align="center"}
 
 ::: {.incremental}
-Tiga langkah **sebelum** memutuskan jurnal:
+Tiga langkah **sebelum** memilih jurnal:
 
-1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk topik naskah dan karir saya?
+1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk topik naskah dan prospek karir saya ke depan?
 2. **Check** 🟡 — verifikasi identitas, proses editorial, dan reputasi jurnal
-3. **Submit** 🟢 — hanya setelah yakin jurnal tersebut bereputasi dan sesuai dengan tujuan Anda
+3. **Submit** 🟢 — hanya setelah Anda yakin jurnal tersebut dikelola dengan baik dan sesuai dengan tujuan Anda
 
-Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
+Lebih lengkap cek: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
 :::
 
 # Bagaimana jurnal bekerja? {background-color="#14497F" .center}
@@ -241,7 +242,7 @@ Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
 2. ***Initial assessment*** — editor memutuskan:
    * Apakah naskah sesuai *scope* jurnal?
    * Apakah kualitas awal memadai untuk dikirim ke *reviewer*?
-   * Jika tidak → ***desk reject*** (biasanya dalam 1–2 minggu)
+   * Jika tidak → ***desk reject*** (biasanya dalam 1–2 minggu, tapi bisa lebih lama)
 3. ***Peer-review*** — naskah dikirim ke 2–3 (atau lebih) *reviewer* ahli di bidang yang relevan
 :::
 
@@ -267,10 +268,10 @@ Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
 
 ::: {.incremental}
 * ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** ([Billsberry, 2014](https://journals.sagepub.com/doi/full/10.1177/1052562913517209))
-* Artinya: mayoritas naskah tidak pernah sampai ke tangan *reviewer*
+  - Artinya: mayoritas naskah tidak pernah sampai ke tangan *reviewer*
 * Penyebab utama *desk rejection*:
   * ***Scope* tidak sesuai** — naskah tidak relevan dengan fokus jurnal
-  * **Kualitas awal tidak memadai** — tulisan tidak memenuhi standar dasar jurnal
+  * **Kualitas awal tidak memadai** — tulisan tidak memenuhi standar jurnal, meskipun "standar" disini bisa jadi penilaian subjektif dari editor
   * **Format/teknis** — tidak mengikuti *author guidelines*
   * **Bahasa** — terutama hambatan bagi penulis non-penutur asli bahasa Inggris
 :::
@@ -289,13 +290,13 @@ Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih r
 
 * Naskah berkualitas yang **dibaca** banyak orang
 * Konten yang **sesuai *scope*** jurnal
-* Kontribusi yang **orisinal** dan nyata
+* Kontribusi yang **orisinal** (jika memungkinkan), atau setidaknya memadai
 
 **Reviewer** ingin...
 
 * Kontribusi ilmiah yang **adekuat** dan jelas
 * Metodologi yang **kuat dan transparan**
-* Penyajian yang **jernih**, tidak bertele-tele
+* Argumentasi dipaparkan secara **jernih**, tidak bertele-tele
 :::
 :::
 ::: {.column}
@@ -317,20 +318,19 @@ Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih r
 ## Naskah yang baik — apa saja karakteristiknya?
 
 ::: {.incremental}
-Kompromi antara semua pihak di atas. Naskah yang baik:
+Kompromi antara semua pihak di _slide_ sebelumnya. Naskah yang baik:
 
-* Punya **ide yang sederhana** tapi dieksekusi dengan baik
-* Menyajikan **penjelasan yang jernih** — tidak membuat pembaca bingung
-* Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan
-* Menghasilkan **temuan/sintesis yang substansial** — bukan hanya deskriptif
+* **Ide penelitian bisa jadi sederhana** tapi dieksekusi dengan desain penelitian yang baik
+* Menyajikan **penjelasan yang langsung pada intinya** — tidak berputar-putar, membuat pembaca bingung
+* Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan — ini tampak di *state-of-the-art* yang dipaparkan di bagian *introduction*
+* Menghasilkan **temuan/sintesis yang substansial** — bukan sekadar deskripsi
 * ***Concise*** — _to-the-point_, tapi dengan **argumentasi yang kuat**
-* Memiliki **tata bahasa yang baik** (termasuk bahasa Inggris yang konsisten)
+* Ditulis dengan **tata bahasa yang baik**
 :::
 
 ## Struktur naskah ilmiah ([IMRAD](https://link.springer.com/article/10.1007/s10980-011-9674-3))
 
-![](libs/imrad.webp){fig-align="center"}
-:Sumber [Wu, 2011](https://link.springer.com/article/10.1007/s10980-011-9674-3)
+![Sumber: [Wu, 2011](https://link.springer.com/article/10.1007/s10980-011-9674-3)](libs/imrad.webp){fig-align="center"}
 
 # Naskah yang layak terbit {background-color="#14497F" .center}
 
@@ -341,7 +341,7 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 
 * **Konten** → terkait dengan:
   * Pertanyaan penelitian yang **jelas dan relevan**
-  * Metode yang **sesuai dan dijelaskan dengan cukup detail** (sehingga bisa direplikasi)
+  * Metode yang **sesuai dan dijelaskan dengan detail dan transparan** (sehingga bisa direplikasi)
   * Sintesis/temuan yang **menjawab pertanyaan penelitian**
 
 * **Presentasi** → aspek teknis:
@@ -360,8 +360,18 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 * Hampir **semua** peneliti senior pernah mengalami penolakan berulang sebelum berhasil terbit
 :::
 
-::: {.callout-warning}
-**Penting**: Penolakan (*rejection*) bukan akhir dunia. Banyak paper terkenal pernah ditolak berkali-kali sebelum akhirnya terbit.
+## _Rejection_ bukan akhir dunia👍
+
+::: {.incremental}
+* **[Hans Krebs](https://www.nobelprize.org/prizes/medicine/1953/krebs/biographical/) (1937)** — *Nature* menolak naskahnya tentang siklus asam sitrat (*citric acid cycle*). Terbit di *Experientia* dan menang hadiah **Nobel tahun 1953**.
+* **[Barry Marshall](https://www.nobelprize.org/prizes/medicine/2005/marshall/biographical/) (H. pylori)** — Abstraknya ditolak dari konferensi tahunan *Australian Gastroenterological Society* (1983) karena dinilai terlalu jelek oleh *reviewer* yang menganggap idenya tidak masuk akal. Ia bahkan meminum cawan petri berisi *H. pylori* untuk membuktikan klaimnya. Menang hadiah **Nobel 2005**.
+* **[Peter Higgs](https://www.nobelprize.org/prizes/physics/2013/higgs/biographical/) (Higgs boson)** — *Physics Letters* menolak naskah aslinya (1964). Terbit di *Physical Review Letters* dan menang hadiah **Nobel tahun 2013**.
+* **[Dan Shechtman](https://www.nobelprize.org/prizes/chemistry/2011/shechtman/biographical/) (kuasikristal)** — *Journal of Applied Physics* menolak naskahnya (1982); koleganya memintanya meninggalkan kelompok riset, dan bahkan Linus Pauling (peraih Nobel dua kali) merendahkan idenya secara terbuka. Terbit di *Physical Review Letters* (1984) dan menang hadiah **Nobel Kimia 2011**.
+:::
+
+::: {.callout-note}
+#### _Rejection_ adalah masalah semua orang
+Keempat peneliti di atas memenangkan Nobel **setelah** naskah mereka ditolak. *Rejection* bukan penilaian akhir atas kualitas riset Anda. _Rejection_ seringkali hanya soal *timing*, jurnal yang tepat, atau *reviewer* yang *irrationally* skeptis.
 :::
 
 # Menulis *Introduction* {background-color="#14497F" .center}
