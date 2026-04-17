@@ -81,7 +81,7 @@ Workshop ini berfokus pada **artikel jurnal ilmiah** — tapi moda komunikasi la
 * ***Original research*** (artikel empiris)
 * ***Brief/short communication***
 * ***Case study/report***
-* ***Registered Report*** ⭐ — desain & hipotesis dinilai *reviewer* **sebelum** data dikumpulkan
+* [***Registered Report***](https://www.cos.io/initiatives/registered-reports) ⭐ — desain & hipotesis dinilai *reviewer* **sebelum** data dikumpulkan dan dianalisis
 :::
 :::
 ::: {.column}
@@ -97,10 +97,6 @@ Workshop ini berfokus pada **artikel jurnal ilmiah** — tapi moda komunikasi la
 :::
 ::::
 
-::: {.callout-note}
-Sebagian besar peserta sedang mengerjakan ***scoping*** atau ***systematic review*** — jenis artikel bernilai tinggi di komunitas ilmiah, tapi kompetisinya juga ketat.
-:::
-
 # Lanskap jurnal ilmiah {background-color="#14497F" .center}
 
 ## Ekosistem pengetahuan ilmiah
@@ -110,18 +106,18 @@ Sebagian besar peserta sedang mengerjakan ***scoping*** atau ***systematic revie
 ::: {.incremental}
 Tiga komponen utama:
 
-* **Publisher/Penerbit** — organisasi yang menerbitkan jurnal (e.g., Elsevier, Sage, UP3 UNAIR)
+* **Publisher/Penerbit** — entitas komersial/non-profit yang menerbitkan jurnal (e.g., Elsevier, SAGE, Springer, Airlangga _University Press_, UC Press, dsb.)
 * **Jurnal** (*standalone* atau di bawah naungan publisher) — tempat artikel diterbitkan
-* **Pangkalan data** (*database*) — indeks yang memungkinkan artikel ditemukan dan diakses
+* **Pangkalan data** (*database*) — basis data yang memungkinkan artikel ditemukan dan diakses, biasanya dilanggan oleh perpustakaan universitas
 :::
 :::
 ::: {.column}
 ::: {.callout-note}
-**Analogi sederhana**:
+#### Analogi sederhana 🐔🥚
 
-* Publisher = percetakan
-* Jurnal = majalah ilmiah
-* Database = perpustakaan digital
+* _Publisher_ = percetakan ↔️ produsen daging/rumah potong
+* Jurnal = majalah ilmiah ↔️ daging ayam
+* _Database_ = perpustakaan digital ↔️ supermarket yang menjual daging ayam
 :::
 :::
 ::::
@@ -129,17 +125,17 @@ Tiga komponen utama:
 ## *Publisher*/penerbit besar
 
 ::: {.incremental}
-*Publisher* komersil internasional yang dikenal luas:
+*Publisher* komersil yang dikenal luas:
 
 * **Elsevier**, **Wiley**, **Springer/Nature**, **Taylor & Francis**, **SAGE**, **Oxford University Press**, **Cambridge University Press**
 * Masing-masing menerbitkan ratusan hingga ribuan jurnal
-* **Tidak** semua jurnal dari *publisher* besar otomatis berkualitas tinggi
-* Ada penerbit kecil/independen yang reputasinya justru sangat kuat
-* Di Indonesia: **UP3** (Unit Publikasi Penelitian Psikologi), penerbit universitas
+* **Tidak semua jurnal** dari *publisher* besar otomatis berkualitas baik
+* Ada penerbit kecil/independen yang reputasinya justru sangat kuat (e.g., Brill)
+* Di Indonesia: **UP3** (Unit Publikasi Penelitian Psikologi), penerbit universitas (e.g., Airlangga _University Press_)
 :::
 
 ::: {.callout-note}
-*Standalone journal* seperti **PLOS ONE** tidak dimiliki oleh *publisher* besar — tapi tetap sangat bereputasi. Ukuran bukan segalanya.
+*Standalone journal* seperti [**Bijdragen tot de taal-, land- en volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia**](https://brill.com/view/journals/bki/bki-overview.xml) tidak dimiliki oleh *publisher* besar, tetapi "dianggap" bereputasi. Ukuran penerbit tidak menentukan kualitas jurnal.
 :::
 
 ## Pangkalan data (*database*)
@@ -176,17 +172,19 @@ Tiga komponen utama:
 Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *paywalled journal* yang kualitasnya rendah.
 :::
 
-# Waspada jurnal *predatory* {background-color="#14497F" .center}
+# Waspada jurnal/penerbit pemangsa {background-color="#14497F" .center}
 
-## Ciri-ciri jurnal *bogus/predatory/fake*
+## Ciri-ciri jurnal/penerbit pemangsa
 
 ::: {.incremental}
+* Sebenarnya, istilah "jurnal/penerbit pemangsa" [sangat sulit didefinisikan](https://www.nature.com/articles/d41586-019-03759-y)
+  - Intinya, jurnal/penerbit pemangsa ini didefinisikan sebagai "_entitas yang mengutamakan kepentingan pribadi dengan mengorbankan integritas akademik dan ditandai oleh informasi yang salah atau menyesatkan, penyimpangan dari praktik editorial dan penerbitan terbaik, kurangnya transparansi, dan/atau penggunaan praktik pemasaran yang agresif dan tanpa pandang bulu_"
 * Kadang tidak terindeks di pangkalan data manapun
-  * Tapi: ada banyak jurnal palsu yang **terindeks Scopus dan/atau WoS (ESCI)**
-* Penerbit tidak jelas dan cenderung **komersil** — tujuannya keuntungan sebanyak-banyaknya, bukan mewadahi komunikasi kesarjanaan
+  * Tapi, ada banyak jurnal yang praktiknya mirip "jurnal pemangsa" yang **terindeks Scopus dan/atau WoS (ESCI)**
+* Penerbit tidak jelas dan cenderung **komersil**, tujuannya meraup keuntungan sebanyak-banyaknya, bukan mewadahi komunikasi kesarjanaan
 * *Impact factor* jadi-jadian (bukan JIF resmi dari Clarivate)
-* Tidak melakukan ***peer-review*** yang sesungguhnya — atau prosesnya sangat singkat dan sekadar formalitas
-* Termasuk dalam **Beall's list** — tapi Beall's list tidak bisa jadi satu-satunya patokan
+* Tidak melakukan ***peer-review*** yang sesungguhnya, atau prosesnya sangat singkat dan sekadar formalitas
+* Praktik-praktik [kontrak curang](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00067/full) dalam publikasi ilmiah sudah sangat kompleks dari sekadar jurnal palsu/pemangsa
 :::
 
 ## Cara mengidentifikasi — cek dulu sebelum *submit*!
@@ -194,35 +192,27 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 ::: {.incremental}
 * **Identitas jurnal**: apakah nama jurnal/penerbit familiar? Ada alamat pos yang valid?
 * **ISSN**: cek di portal ISSN resmi ([portal.issn.org](https://portal.issn.org))
+* **Cek kebijakan jurnal di _Open Policy Finder_**: cek kebijakan jurnal di [*Open Policy Finder*](https://openpolicyfinder.jisc.ac.uk/) (dulu SHERPA-RoMEO). Kalau jurnal terdaftar di laman terssebut, maka mungkin jurnal tersebut _legitimate_ (asli)
 * **Editorial board**: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?
 * **Biaya**: apakah ada *submission charge* sebelum review? → **RED FLAG**
   * APC yang ditagih **setelah *accepted*** = normal di jurnal OA bereputasi
-* **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya?
+* **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (_turnaround time_)?
 * **Konten**: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?
 :::
 
 ## *Think. Check. Submit.*
 
-:::: {.columns}
-::: {.column width="55%"}
+![](https://thinkchecksubmit.org/wp-content/uploads/2024/10/TCS-Social-Media-LinkedIn-0.png){fig-align="center"}
+
 ::: {.incremental}
 Tiga langkah **sebelum** memutuskan jurnal:
 
-1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk naskah dan karir saya?
+1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk topik naskah dan karir saya?
 2. **Check** 🟡 — verifikasi identitas, proses editorial, dan reputasi jurnal
-3. **Submit** 🟢 — hanya setelah yakin jurnal tersebut bereputasi dan sesuai
+3. **Submit** 🟢 — hanya setelah yakin jurnal tersebut bereputasi dan sesuai dengan tujuan Anda
 
-Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org)
+Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
 :::
-:::
-::: {.column width="45%"}
-::: {.callout-warning}
-*"In their eagerness to get published, young researchers often fall prey to predatory publishers."*
-
-Apabila ragu, diskusikan dengan promotor atau staf UP3.
-:::
-:::
-::::
 
 # Bagaimana jurnal bekerja? {background-color="#14497F" .center}
 
@@ -234,7 +224,7 @@ Apabila ragu, diskusikan dengan promotor atau staf UP3.
    * Apakah naskah sesuai *scope* jurnal?
    * Apakah kualitas awal memadai untuk dikirim ke *reviewer*?
    * Jika tidak → ***desk reject*** (biasanya dalam 1–2 minggu)
-3. ***Peer-review*** — naskah dikirim ke 2–3 *reviewer* ahli di bidang yang relevan
+3. ***Peer-review*** — naskah dikirim ke 2–3 (atau lebih) *reviewer* ahli di bidang yang relevan
 :::
 
 ## Dari manuskrip ke publikasi 2️⃣
@@ -243,7 +233,7 @@ Apabila ragu, diskusikan dengan promotor atau staf UP3.
 4. **Keputusan editor** setelah *review*:
    * ***Major revision*** — perlu revisi substansial, kemungkinan re-review
    * ***Minor revision*** — revisi kecil, biasanya tidak perlu re-review
-   * ***Rejection*** — ditolak (tapi bukan akhir dunia!)
+   * ***Rejection*** — ditolak (tapi bukan akhir dunia!😉)
    * ***Accept*** — langsung diterima tanpa revisi (sangat jarang)
 5. **Revisi** — penulis merespons masukan *reviewer* secara tertulis (*response to reviewers*)
 6. **(Re-)review** — kadang kembali ke *reviewer* untuk evaluasi revisi
@@ -255,7 +245,7 @@ Apabila ragu, diskusikan dengan promotor atau staf UP3.
 2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). _Turnaround time_ saat ini bisa lebih lama karena editor umumnya kesulitan mencari _reviewer_.
 :::
 
-## *Desk rejection* — angka dan fakta
+## *Desk rejection*
 
 ::: {.incremental}
 * ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** ([Billsberry, 2014](https://journals.sagepub.com/doi/full/10.1177/1052562913517209))
@@ -512,7 +502,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
   * 1–2 kalimat → metode
   * 1–2 kalimat → temuan utama
   * 1 kalimat → implikasi/kesimpulan
-* *Abstract* harus bisa **berdiri sendiri** — pembaca yang tidak membaca naskah utuh tetap memahami isinya
+* *Abstract* harus bisa **berdiri sendiri**, pembaca yang tidak membaca naskah utuh tetap memahami isinya
 :::
 
 ::: {.callout-warning}
@@ -526,11 +516,54 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 * Tidak ada perbedaan **cara** membahasnya — yang ada adalah **bias editorial**
 * Editor jurnal masih cenderung lebih menerima hasil "positif" → naskah *null results* lebih susah lolos
 * **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi *as it is*
+* Lebih detailnya, saya membahas [bagaimana cara melaporkan _null results_ disini](https://rameliaz.github.io/tutorial/hasilnegatif.html)
 :::
 
 ::: {.callout-note}
-**Fakta mengejutkan**: 61% studi dengan *preregistration* menghasilkan *null results* — sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil "negatif." Ini adalah *publication bias* yang sistemik.
+#### Faktanya  
+[61% studi dengan format _registered report_](https://www.nature.com/nature-index/news/first-analysis-of-pre-registered-studies-shows-sharp-rise-in-null-findings) menghasilkan *null results*, sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil negatif (_null results_, cf. [van den Akker, et al., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)). Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 :::
+
+# Latihan menulis ✍️ {background-color="#14497F" .center}
+
+## TUGAS 1️⃣: *Elevator Pitch* (15 menit)
+
+Tuliskan minat penelitian Anda dalam **3–4 kalimat**:
+
+::: {.incremental}
+1. **Kalimat 1** — Identifikasi **topik/fenomena** yang Anda teliti
+   *(bukan judul penelitian, tapi masalahnya)*
+2. **Kalimat 2** — Jelaskan **mengapa topik ini perlu diteliti** — apa kesenjangan di literatur?
+3. **Kalimat 3** — Rumuskan **pertanyaan penelitian** Anda secara spesifik
+4. **Kalimat 4** *(opsional)* — Sebutkan **pendekatan** yang Anda gunakan
+   *(kuantitatif, kualitatif, dll.)*
+5. Tuliskan tugas Anda di [halaman Padlet ini](https://padlet.com/ameliazein/berlatih-menulis-xcpa9ybswkvfuvlt)
+:::
+
+::: {.callout-note}
+**Tes sederhana**: Bisakah Anda menjelaskan ini kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya — bagus!
+:::
+
+## Contoh *elevator pitch* yang baik
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Kurang baik** ❌
+
+*"Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review."*
+
+Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Lebih baik** ✅
+
+*"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis kampus di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
+:::
+:::
+::::
 
 ## Ada pertanyaan❓
 

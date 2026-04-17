@@ -163,7 +163,7 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 
 # Integritas riset dan etika publikasi {background-color="#14497F" .center}
 
-## *Scientific misconduct* — 9 lingkaran
+## [*The nine circles of scientific hell*](https://journals.sagepub.com/doi/10.1177/1745691612459519)
 
 :::: {.columns}
 ::: {.column}
@@ -171,20 +171,38 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 Dari yang "paling ringan" hingga paling berat:
 
 1. **Limbo** — tidak mempublikasikan hasil penelitian
-2. **Overselling** — mengklaim lebih dari yang data dukung
-3. **Post-hoc storytelling** — narasi yang dibuat-buat setelah melihat data
+2. **Overselling** — mengklaim lebih dari yang didukung data
+3. **Post-hoc storytelling** — narasi yang dibuat _post hoc_ setelah melihat data
 4. **P-value fishing** — mencari-cari p < .05 dengan berbagai cara
-5. **Creative outliers** — membuang data yang tidak menyenangkan
+5. **Creative outliers** — membuang data _outlier_ tanpa justifikasi yang jelas
 :::
 :::
 ::: {.column}
 ::: {.incremental}
+![](https://journals.sagepub.com/cms/10.1177/1745691612459519/asset/197495c2-e9bc-4e89-a1ed-069b12feef30/assets/images/large/10.1177_1745691612459519-fig1.jpg){fig-align="center"}
+
+:::
+:::
+::::
+
+## [*The nine circles of scientific hell*](https://journals.sagepub.com/doi/10.1177/1745691612459519)
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+Dari yang "paling ringan" hingga paling berat:
+
 6. **Plagiarism** — menyalin tanpa atribusi yang benar
 7. **Non-publication** — sengaja menyembunyikan hasil negatif (*publication bias*)
 8. **Partial publication** — *salami slicing*
 9. **Inventing data** — fabrikasi atau falsifikasi data
+:::
+:::
+::: {.column}
+::: {.incremental}
 
-*(Adaptasi dari Neuroskeptic, 2012)*
+![](https://journals.sagepub.com/cms/10.1177/1745691612459519/asset/197495c2-e9bc-4e89-a1ed-069b12feef30/assets/images/large/10.1177_1745691612459519-fig1.jpg){fig-align="center"}
+
 :::
 :::
 ::::
@@ -192,7 +210,7 @@ Dari yang "paling ringan" hingga paling berat:
 ## *Overselling* — jebakan yang paling sering kita lakukan
 
 ::: {.incremental}
-* Mengklaim lebih dari yang data bisa dukung adalah *misconduct* yang **paling umum** — dan sering tidak disadari
+* Mengklaim lebih dari yang didukung data adalah *misconduct* yang **paling umum** — dan sering tidak disadari
 * Contoh *overselling* dalam *review articles*:
   * *"Belum ada penelitian yang membahas ini"* → padahal ada, hanya belum dibaca dengan cermat
   * *"Penelitian ini membuktikan bahwa X menyebabkan Y"* → review bukan RCT, tidak bisa klaim kausalitas
@@ -201,7 +219,8 @@ Dari yang "paling ringan" hingga paling berat:
 :::
 
 ::: {.callout-warning}
-**Ingat**: Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksplorasi..."* ≠ *"Studi ini membuktikan..."*
+#### Ingat
+Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksplorasi..."* ≠ *"Studi ini membuktikan..."*
 :::
 
 ## *Hedging language* yang tepat
@@ -236,6 +255,40 @@ Dari yang "paling ringan" hingga paling berat:
   * Pertimbangkan **kualitas metodologi** studi yang Anda review, bukan hanya jumlahnya
   * *Open science* bukan tren — ini kebutuhan ilmiah
 :::
+
+## TUGAS 2️⃣: *Scientific Sell* (25 menit)
+
+Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
+
+::: {.incremental}
+1. Mengapa topik riset Anda (yang sudah dibahas di Tugas 1️⃣) **relevan** secara ilmiah DAN praktis?
+2. Mengapa komunitas ilmiah dan/atau pembuat kebijakan perlu **peduli** dengan pertanyaan penelitian Anda?
+3. Apa yang **belum diketahui** yang ingin Anda ungkap?
+4. Tuliskan tugas Anda di [halaman Padlet ini](https://padlet.com/ameliazein/berlatih-menulis-xcpa9ybswkvfuvlt)
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Hindari** ❌
+
+* *"Belum ada yang meneliti ini..."*
+* *"Penelitian ini akan membuktikan..."*
+* Angka yang tidak ada sumbernya
+* Klaim adanya efek sebelum data dikumpulkan/dianalisis
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Gunakan** ✅
+
+* Angka/fakta yang bisa diverifikasi
+* Sitasi penelitian sebelumnya
+* *Hedging*: "mengindikasikan...", "cenderung...", "dalam konteks..."
+
+:::
+:::
+::::
 
 ## *Open science* untuk penulis *review*
 
@@ -299,112 +352,6 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 :::
 ::::
 
-# Latihan menulis ✍️ {background-color="#14497F" .center}
-
-## Tujuan latihan: yakinkan tanpa berlebihan
-
-::: {.incremental}
-Dua tujuan utama latihan ini:
-
-1. Belajar **mengartikulasikan** minat penelitian dengan jelas dan ringkas
-2. Melatih kemampuan **"menjual" ide secara ilmiah** — *convincing, clear, confident*
-
-Dua prinsip panduan:
-
-* ✅ Buat klaim yang **bisa Anda dukung dengan bukti**
-* ❌ Hindari klaim yang **lebih besar dari yang data Anda miliki**
-
-*Ini bukan tentang menulis yang "bombastis" — ini tentang menulis yang jujur dan meyakinkan sekaligus.*
-:::
-
-## TUGAS 1️⃣: *Elevator Pitch* (15 menit)
-
-Tuliskan minat penelitian Anda dalam **3–4 kalimat**:
-
-::: {.incremental}
-1. **Kalimat 1** — Identifikasi **topik/fenomena** yang Anda teliti
-   *(bukan judul penelitian, tapi masalahnya)*
-2. **Kalimat 2** — Jelaskan **mengapa topik ini perlu diteliti** — apa kesenjangan di literatur?
-3. **Kalimat 3** — Rumuskan **pertanyaan penelitian** Anda secara spesifik
-4. **Kalimat 4** *(opsional)* — Sebutkan **pendekatan** yang Anda gunakan
-   *(scoping review, systematic review, dll.)*
-:::
-
-::: {.callout-note}
-**Tes sederhana**: Bisakah Anda menjelaskan ini kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya — bagus!
-:::
-
-## Contoh *elevator pitch* yang baik
-
-:::: {.columns}
-::: {.column}
-::: {.callout-warning}
-**Kurang baik** ❌
-
-*"Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review."*
-
-Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.
-:::
-:::
-::: {.column}
-::: {.callout-note}
-**Lebih baik** ✅
-
-*"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis kampus di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
-:::
-:::
-::::
-
-## TUGAS 2️⃣: *Scientific Sell* (25 menit)
-
-Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
-
-::: {.incremental}
-1. Mengapa topik ini **relevan** secara ilmiah DAN praktis?
-2. Mengapa komunitas ilmiah dan/atau pembuat kebijakan perlu **peduli** dengan pertanyaan penelitian Anda?
-3. Apa yang **belum diketahui** yang ingin Anda ungkap?
-:::
-
-:::: {.columns}
-::: {.column}
-::: {.callout-warning}
-**Hindari** ❌
-
-* *"Belum ada yang meneliti ini..."*
-* *"Penelitian ini akan membuktikan..."*
-* Angka yang tidak ada sumbernya
-* Klaim efek sebelum data bicara
-:::
-:::
-::: {.column}
-::: {.callout-note}
-**Gunakan** ✅
-
-* Angka/fakta yang bisa diverifikasi
-* Sitasi penelitian sebelumnya
-* *Hedging*: "mengindikasikan...", "cenderung...", "dalam konteks..."
-* Kalimat yang presisi, bukan kalimat yang dramatis
-:::
-:::
-::::
-
-## Diskusi: apa yang berhasil? (20 menit)
-
-Setelah menulis, kita akan berdiskusi bersama:
-
-::: {.incremental}
-* 2–3 peserta **membacakan** paragrafnya kepada kelompok
-* Bersama-sama kita **identifikasi**:
-  * Bagian mana yang **meyakinkan** — dan mengapa?
-  * Bagian mana yang terasa seperti **overselling** — dan mengapa?
-  * Apa yang bisa **diperbaiki** tanpa mengurangi *confidence*?
-* Tidak ada penilaian — ini **latihan bersama** untuk belajar dari satu sama lain
-:::
-
-::: {.callout-note}
-Kemampuan ini akan terus berkembang seiring banyaknya naskah yang Anda tulis dan *feedback* yang Anda terima. Satu paragraf hari ini adalah langkah pertama.
-:::
-
 # Sumber belajar lanjutan {background-color="#14497F" .center}
 
 ## Sumber belajar yang direkomendasikan
@@ -422,11 +369,11 @@ Kemampuan ini akan terus berkembang seiring banyaknya naskah yang Anda tulis dan
 * [**Scimago Journal Rank**](https://www.scimagojr.com/) — cek quartile dan SJR jurnal
 :::
 
-## Tentang penggunaan AI dalam menulis
+## Tentang penggunaan LLM dalam menulis
 
 ::: {.incremental}
-* *Large Language Model* (LLM) seperti ChatGPT, Gemini, dan Claude kini tersedia luas — termasuk di ekosistem akademik
-* AI **dapat membantu** untuk:
+* *Large Language Model* (LLM) seperti ChatGPT, Gemini, dan Claude kini umum digunakan, termasuk di komunitas akademik.
+* LLM **dapat membantu** untuk:
   * Memperbaiki tata bahasa dan gaya penulisan
   * Mereformat sitasi dan daftar pustaka
   * Menerjemahkan teks
@@ -437,7 +384,7 @@ Kemampuan ini akan terus berkembang seiring banyaknya naskah yang Anda tulis dan
 :::
 
 ::: {.callout-warning}
-**Penting**: Menggunakan AI untuk *menulis* naskah Anda secara penuh — bukan hanya membantu perbaikan — dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan dengan bijaksana dan transparan.
+**Penting**: Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM dengan bijaksana dan laporkan secara transparan.
 :::
 
 ## Ada pertanyaan❓

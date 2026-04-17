@@ -35,6 +35,20 @@ website:
             href: https://www.soscisurvey.de/fb-workshop-amel/     
       - icon: github
         href: https://github.com/rameliaz/penerbitan
+  
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+      left: "&#169; 2026 Rizqy Amelia Zein"
+      center: |
+        <a class="link-dark me-1" href="https://github.com/rameliaz" title="github" target="_blank" rel="noopener">{{< iconify fa6-brands github >}}</a>
+        <a class="link-dark me-1" href=mailto:amelia.zein@psikologi.unair.ac.id title="Email" target="_blank" rel="noopener">{{< iconify material-symbols:mail >}}</a>
+        <a class="link-dark me-1" href="https://bsky.app/profile/ameliazein.bsky.social" title="Bluesky" target="_blank" rel="noopener">{{< iconify fa6-brands bluesky >}}</a>
+        <a class="link-dark me-1" href="https://discord.com/users/807046335613632555" title="Discord" target="_blank" rel="noopener">{{< iconify fa6-brands discord >}}</a>
+        
+      right: |
+        <a class="link-dark me-1" href="https://github.com/rameliaz/tutorial">{{< iconify fa6-brands github >}} Source</a>
 
 format:
   html:
