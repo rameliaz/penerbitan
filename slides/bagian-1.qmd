@@ -25,7 +25,7 @@ execute:
 * Waspada jurnal/penerbit pemangsa
 * Bagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi
 * Struktur naskah ilmiah (IMRAD)
-* Naskah yang layak terbit — kualitas dan *mindset*
+* Naskah yang layak terbit — konten + presentasi naskah
 * Menulis *Introduction*
 * Menulis *Discussion* dan *Abstract*
 * Latihan menulis: *elevator pitch*
@@ -307,7 +307,7 @@ Kompromi antara semua pihak di atas. Naskah yang baik:
 * Menyajikan **penjelasan yang jernih** — tidak membuat pembaca bingung
 * Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan
 * Menghasilkan **temuan/sintesis yang substansial** — bukan hanya deskriptif
-* ***Concise*** — to-the-point, tapi dengan **argumentasi yang kuat**
+* ***Concise*** — _to-the-point_, tapi dengan **argumentasi yang kuat**
 * Memiliki **tata bahasa yang baik** (termasuk bahasa Inggris yang konsisten)
 :::
 
@@ -468,12 +468,12 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::
 ::::
 
-## "Ngeles dengan elegan" — membahas keterbatasan
+## "_Ngeles_ dengan elegan"
 
 ::: {.incremental}
-* Semua penelitian punya keterbatasan — **jangan disembunyikan**
-* Tapi: membahas keterbatasan **bukan berarti minta maaf** atas penelitian Anda
-* "Ngeles dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan berkontribusi**
+* Semua penelitian punya keterbatasan — **jangan disembunyikan**, justru tuliskan secara transparan
+* Tapi: membahas keterbatasan **bukan berarti _apologetic_** atas kekurangan penelitian Anda
+* "_Ngeles_ dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur**
 :::
 
 :::: {.columns}
@@ -488,7 +488,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 ::: {.callout-note}
 **Elegan** ✅
 
-*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya — pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
+*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
 :::
 :::
 ::::
@@ -543,7 +543,8 @@ Tuliskan minat penelitian Anda dalam **3–4 kalimat**:
 :::
 
 ::: {.callout-note}
-**Tes sederhana**: Bisakah Anda menjelaskan ini kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya — bagus!
+#### Tes apakah _elevator pitch_ bekerja dengan baik 
+Bisakah Anda menjelaskan topik riset Anda kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya, maka _elevator pitch_ bekerja dengan baik.
 :::
 
 ## Contoh *elevator pitch* yang baik
@@ -562,16 +563,16 @@ Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian t
 ::: {.callout-note}
 **Lebih baik** ✅
 
-*"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis kampus di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
+*"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis komunitas di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
 :::
 :::
 ::::
 
 ## Ada pertanyaan❓
 
-![](https://media3.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif){fig-align="center"}
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJoaHR1YjYxMm5pdHBkMjBoaTY5ZTQ1dmV6MWdjM2NxeGEwb3ZtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rwS6e59S26Ozzud2o/giphy.gif){fig-align="center"}
 
 ::: {.callout-note}
 * Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+* Kontak saya via {{< fa paper-plane >}} <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::

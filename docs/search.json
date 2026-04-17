@@ -133,25 +133,25 @@
     "text": "Apa itu research data management (RDM)?\n\nRDM adalah praktik terstruktur dalam mengorganisasi, mendokumentasikan, menyimpan, dan berbagi data penelitian sepanjang siklus hidupnya\nUntuk penulis review articles, “data” mencakup lebih dari sekadar angka:\n\nSearch string dan strategi penelusuran yang digunakan\nKeputusan inklusi/eksklusi (screening decisions) di setiap tahap\nExtraction sheet — tabel ekstraksi data dari setiap studi yang dimasukkan\nPRISMA flow diagram beserta jumlah studi di setiap tahap\n\nPrinsip panduan: FAIR — data harus Findable, Accessible, Interoperable, Reusable\n\n\n\n\n\n\n\nNote\n\n\nRDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan review Anda direplikasi, diperbarui, dan disitasi oleh peneliti lain."
   },
   {
-    "objectID": "slides/bagian-2.html#open-data-policy-jurnal-apa-yang-perlu-diketahui",
-    "href": "slides/bagian-2.html#open-data-policy-jurnal-apa-yang-perlu-diketahui",
+    "objectID": "slides/bagian-2.html#open-data-policy",
+    "href": "slides/bagian-2.html#open-data-policy",
     "title": "Strategi Publikasi & Latihan Menulis",
-    "section": "Open data policy jurnal — apa yang perlu diketahui?",
-    "text": "Open data policy jurnal — apa yang perlu diketahui?\n\n\nTiga level kebijakan yang umum:\n\nWajib (required) — data harus dideposit sebelum artikel diterbitkan\nDidorong (encouraged) — tidak wajib, tapi sangat disarankan dan diberi badge\nTidak disyaratkan — masih umum di sebagian jurnal, tapi tren bergeser ke arah transparansi\n\nTempat deposit yang umum digunakan:\n\nOSF — cocok untuk pre-registration dan seluruh alur review\nZenodo — mendukung berbagai format, DOI otomatis\nfigshare — untuk tabel, gambar, dan dataset pelengkap\nRepositori institusi — cek apakah UNAIR menyediakan\n\n\n\n\n\n\n\n\nWarning\n\n\nPenting: Sebelum submit, baca bagian data availability statement di author guidelines. Banyak jurnal Q1/Q2 kini mensyaratkan pernyataan ini — bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit.\n\n\n\n\n\n\n\n\n\nNote\n\n\nSharing data ekstraksi dan search string di OSF atau Zenodo tidak memerlukan biaya dan dapat dilakukan sebelum atau bersamaan dengan submission."
+    "section": "Open data policy",
+    "text": "Open data policy\nTiga level kebijakan yang umum:\n\nWajib (required) — data harus dideposit sebelum artikel diterbitkan\nDidorong (encouraged) — tidak wajib, tapi sangat disarankan dan diberi badge\nTidak disyaratkan — masih umum di sebagian jurnal, tapi tren bergeser ke arah transparansi\n\nPlatform deposit data yang umum digunakan:\n\nOSF — paling sering digunakan oleh peneliti psikologi\nZenodo — mendukung berbagai format, DOI otomatis\nfigshare — untuk tabel, gambar, dan dataset pelengkap\nRepositori institusi — cek apakah UNAIR menyediakan\n\n\n\n\n\n\n\nPenting\n\n\nSebelum submit, baca bagian data availability statement di author guidelines. Banyak jurnal bereputasi baik kini mensyaratkan pernyataan ini di dalam naskah, bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit."
   },
   {
-    "objectID": "slides/bagian-2.html#tentang-penggunaan-llm-dalam-meneliti-dan-menulis",
-    "href": "slides/bagian-2.html#tentang-penggunaan-llm-dalam-meneliti-dan-menulis",
+    "objectID": "slides/bagian-2.html#menggunakan-llm-untuk-meneliti-dan-menulis",
+    "href": "slides/bagian-2.html#menggunakan-llm-untuk-meneliti-dan-menulis",
     "title": "Strategi Publikasi & Latihan Menulis",
-    "section": "Tentang penggunaan LLM dalam meneliti dan menulis",
-    "text": "Tentang penggunaan LLM dalam meneliti dan menulis\n\nLarge Language Model (LLM) seperti ChatGPT, Gemini, dan Claude kini umum digunakan, termasuk di komunitas akademik.\nLLM dapat membantu untuk:\n\nMemperbaiki tata bahasa dan gaya penulisan\nMereformat sitasi dan daftar pustaka\nMenerjemahkan teks\nMencari tema atau kode dalam data\n\nNamun: artikel ilmiah harus ditulis oleh penelitinya sendiri\n\nIsi, argumen, dan interpretasi adalah tanggung jawab penuh penulis\nBanyak jurnal kini mensyaratkan disclosure atas penggunaan AI\n\n\n\n\n\n\n\n\nWarning\n\n\nPenting: Menggunakan LLM untuk menulis naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai asisten (bukan penulis utama) dan laporkan secara transparan."
+    "section": "Menggunakan LLM untuk meneliti dan menulis",
+    "text": "Menggunakan LLM untuk meneliti dan menulis\n\nLarge Language Model (LLM) seperti ChatGPT, Gemini, dan Claude kini umum digunakan, termasuk di komunitas akademik.\nLLM dapat membantu untuk:\n\nMemperbaiki tata bahasa dan gaya penulisan\nMenerjemahkan teks\nMembantu analisis dan visualisasi data\n\nNamun: artikel ilmiah harus ditulis oleh penelitinya sendiri\n\nIsi, argumen, dan interpretasi adalah tanggung jawab penuh penulis\nBanyak jurnal kini mensyaratkan disclosure atas penggunaan AI\n\n\n\n\n\n\n\n\nPenting\n\n\nMenggunakan LLM untuk menulis naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai asisten (bukan penulis utama) dan laporkan secara transparan."
   },
   {
-    "objectID": "slides/bagian-2.html#beberapa-llm-based-software-yang-membantu-saya",
-    "href": "slides/bagian-2.html#beberapa-llm-based-software-yang-membantu-saya",
+    "objectID": "slides/bagian-2.html#llm-based-software-yang-membantu-saya",
+    "href": "slides/bagian-2.html#llm-based-software-yang-membantu-saya",
     "title": "Strategi Publikasi & Latihan Menulis",
-    "section": "Beberapa LLM-based software yang membantu saya",
-    "text": "Beberapa LLM-based software yang membantu saya\n\nClaude Code\n\nDigunakan sebagai coding assistant dan otomatisasi workflow\n\nChatPDF ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam\nResearch Rabbit AI ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi\nScienceOS ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif\n\nModel LLM sudah difine-tune agar lebih responsif dengan konteks saintifik"
+    "section": "LLM-based software yang membantu saya",
+    "text": "LLM-based software yang membantu saya\n\nClaude Code\n\nDigunakan sebagai coding assistant dan otomatisasi workflow\n\nChatPDF ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam\nResearch Rabbit AI ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi\nScienceOS ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif\n\nModel LLM sudah difine-tune agar lebih responsif dengan konteks saintifik"
   },
   {
     "objectID": "slides/bagian-2.html#ada-pertanyaan",
@@ -200,7 +200,7 @@
     "href": "slides/bagian-1.html#outline",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Outline",
-    "text": "Outline\n\nMengapa publikasi itu penting?\nModa komunikasi kesarjanaan & jenis artikel\nLanskap jurnal ilmiah — publisher, pangkalan data, kategorisasi\nWaspada jurnal/penerbit pemangsa\nBagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi\nStruktur naskah ilmiah (IMRAD)\nNaskah yang layak terbit — kualitas dan mindset\nMenulis Introduction\nMenulis Discussion dan Abstract\nLatihan menulis: elevator pitch"
+    "text": "Outline\n\nMengapa publikasi itu penting?\nModa komunikasi kesarjanaan & jenis artikel\nLanskap jurnal ilmiah — publisher, pangkalan data, kategorisasi\nWaspada jurnal/penerbit pemangsa\nBagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi\nStruktur naskah ilmiah (IMRAD)\nNaskah yang layak terbit — konten + presentasi naskah\nMenulis Introduction\nMenulis Discussion dan Abstract\nLatihan menulis: elevator pitch"
   },
   {
     "objectID": "slides/bagian-1.html#lebih-dari-sekadar-kewajiban-administratif",
@@ -371,11 +371,11 @@
     "text": "Yang perlu ada — dan yang perlu dihindari\n\n\nPerlu ada ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang honest\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
   },
   {
-    "objectID": "slides/bagian-1.html#ngeles-dengan-elegan-membahas-keterbatasan",
-    "href": "slides/bagian-1.html#ngeles-dengan-elegan-membahas-keterbatasan",
+    "objectID": "slides/bagian-1.html#ngeles-dengan-elegan",
+    "href": "slides/bagian-1.html#ngeles-dengan-elegan",
     "title": "Ekosistem Publikasi Ilmiah",
-    "section": "“Ngeles dengan elegan” — membahas keterbatasan",
-    "text": "“Ngeles dengan elegan” — membahas keterbatasan\n\nSemua penelitian punya keterbatasan — jangan disembunyikan\nTapi: membahas keterbatasan bukan berarti minta maaf atas penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan berkontribusi\n\n\n\n\n\n\n\n\n\nWarning\n\n\nTerlalu apologetis ❌\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nElegan ✅\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya — pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
+    "section": "“Ngeles dengan elegan”",
+    "text": "“Ngeles dengan elegan”\n\nSemua penelitian punya keterbatasan — jangan disembunyikan, justru tuliskan secara transparan\nTapi: membahas keterbatasan bukan berarti apologetic atas kekurangan penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur\n\n\n\n\n\n\n\n\n\nWarning\n\n\nTerlalu apologetis ❌\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nElegan ✅\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya - pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
   },
   {
     "objectID": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
@@ -396,14 +396,14 @@
     "href": "slides/bagian-1.html#tugas-1-elevator-pitch-15-menit",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "TUGAS 1️⃣: Elevator Pitch (15 menit)",
-    "text": "TUGAS 1️⃣: Elevator Pitch (15 menit)\nTuliskan minat penelitian Anda dalam 3–4 kalimat:\n\nKalimat 1 — Identifikasi topik/fenomena yang Anda teliti (bukan judul penelitian, tapi masalahnya)\nKalimat 2 — Jelaskan mengapa topik ini perlu diteliti — apa kesenjangan di literatur?\nKalimat 3 — Rumuskan pertanyaan penelitian Anda secara spesifik\nKalimat 4 (opsional) — Sebutkan pendekatan yang Anda gunakan (kuantitatif, kualitatif, dll.)\nTuliskan tugas Anda di halaman Padlet ini\n\n\n\n\n\n\n\nNote\n\n\nTes sederhana: Bisakah Anda menjelaskan ini kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya — bagus!"
+    "text": "TUGAS 1️⃣: Elevator Pitch (15 menit)\nTuliskan minat penelitian Anda dalam 3–4 kalimat:\n\nKalimat 1 — Identifikasi topik/fenomena yang Anda teliti (bukan judul penelitian, tapi masalahnya)\nKalimat 2 — Jelaskan mengapa topik ini perlu diteliti — apa kesenjangan di literatur?\nKalimat 3 — Rumuskan pertanyaan penelitian Anda secara spesifik\nKalimat 4 (opsional) — Sebutkan pendekatan yang Anda gunakan (kuantitatif, kualitatif, dll.)\nTuliskan tugas Anda di halaman Padlet ini\n\n\n\n\n\n\n\nTes apakah elevator pitch bekerja dengan baik\n\n\nBisakah Anda menjelaskan topik riset Anda kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya, maka elevator pitch bekerja dengan baik."
   },
   {
     "objectID": "slides/bagian-1.html#contoh-elevator-pitch-yang-baik",
     "href": "slides/bagian-1.html#contoh-elevator-pitch-yang-baik",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Contoh elevator pitch yang baik",
-    "text": "Contoh elevator pitch yang baik\n\n\n\n\n\n\n\n\nWarning\n\n\nKurang baik ❌\n“Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review.”\nMasalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nLebih baik ✅\n“Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis kampus di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya.”"
+    "text": "Contoh elevator pitch yang baik\n\n\n\n\n\n\n\n\nWarning\n\n\nKurang baik ❌\n“Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review.”\nMasalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nLebih baik ✅\n“Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis komunitas di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya.”"
   },
   {
     "objectID": "slides/bagian-1.html#ada-pertanyaan",

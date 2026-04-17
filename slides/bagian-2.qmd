@@ -327,10 +327,8 @@ Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
 RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan *review* Anda **direplikasi, diperbarui, dan disitasi** oleh peneliti lain.
 :::
 
-## *Open data policy* jurnal — apa yang perlu diketahui?
+## *Open data policy*
 
-:::: {.columns}
-::: {.column}
 ::: {.incremental}
 **Tiga level kebijakan yang umum**:
 
@@ -338,46 +336,42 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 * **Didorong (*encouraged*)** — tidak wajib, tapi sangat disarankan dan diberi badge
 * **Tidak disyaratkan** — masih umum di sebagian jurnal, tapi tren bergeser ke arah transparansi
 
-**Tempat deposit yang umum digunakan**:
+**_Platform_ deposit data yang umum digunakan**:
 
-* [**OSF**](https://osf.io) — cocok untuk *pre-registration* dan seluruh alur *review*
+* [**OSF**](https://osf.io) — paling sering digunakan oleh peneliti psikologi
 * [**Zenodo**](https://zenodo.org) — mendukung berbagai format, DOI otomatis
 * [**figshare**](https://figshare.com) — untuk tabel, gambar, dan dataset pelengkap
 * **Repositori institusi** — cek apakah UNAIR menyediakan
-:::
-:::
-::: {.column}
-::: {.callout-warning}
-**Penting**: Sebelum *submit*, baca bagian ***data availability statement*** di *author guidelines*. Banyak jurnal Q1/Q2 kini mensyaratkan pernyataan ini — bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit.
-:::
 
-::: {.callout-note}
-*Sharing* data ekstraksi dan *search string* di OSF atau Zenodo **tidak memerlukan biaya** dan dapat dilakukan sebelum atau bersamaan dengan *submission*.
+::: {.callout-warning}
+#### Penting
+Sebelum *submit*, baca bagian ***data availability statement*** di *author guidelines*. Banyak jurnal bereputasi baik kini mensyaratkan pernyataan ini di dalam naskah, bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit.
 :::
 :::
-::::
 
 # Menggunakan LLM🤖 {background-color="#14497F" .center}
 
-## Tentang penggunaan LLM dalam meneliti dan menulis
+## Menggunakan LLM untuk meneliti dan menulis
 
 ::: {.incremental}
 * *Large Language Model* (LLM) seperti ChatGPT, Gemini, dan Claude kini umum digunakan, termasuk di komunitas akademik.
 * LLM **dapat membantu** untuk:
   * Memperbaiki tata bahasa dan gaya penulisan
-  * Mereformat sitasi dan daftar pustaka
   * Menerjemahkan teks
-  * Mencari tema atau kode dalam data
+  * Membantu analisis dan visualisasi data
 * **Namun**: artikel ilmiah **harus ditulis oleh penelitinya sendiri**
   * Isi, argumen, dan interpretasi adalah tanggung jawab penuh penulis
   * Banyak jurnal kini mensyaratkan *disclosure* atas penggunaan AI
 :::
 
 ::: {.callout-warning}
-**Penting**: Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan.
+#### Penting
+Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan.
 :::
 
-## Beberapa _LLM-based software_ yang [membantu saya](https://ameliazein.notion.site/Tinjauan-literatur-terstruktur-d6f40a3a7b7f45efbad1c2cff6e3c418?source=copy_link)
+## _LLM-based software_ yang [membantu saya](https://ameliazein.notion.site/Tinjauan-literatur-terstruktur-d6f40a3a7b7f45efbad1c2cff6e3c418?source=copy_link)
+
+::: {.incremental}
 
 * [Claude Code](https://code.claude.com/docs/en/overview)
   - Digunakan sebagai _coding assistant_ dan otomatisasi _workflow_
@@ -389,12 +383,13 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 * [ScienceOS](https://www.scienceos.ai/) ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif 
   - Model LLM sudah di*fine-tune* agar lebih responsif dengan konteks saintifik
 
+:::
 
 ## Ada pertanyaan❓
 
-![](https://media3.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif){fig-align="center"}
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJoaHR1YjYxMm5pdHBkMjBoaTY5ZTQ1dmV6MWdjM2NxeGEwb3ZtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rwS6e59S26Ozzud2o/giphy.gif){fig-align="center"}
 
 ::: {.callout-note}
 * Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+* Kontak saya via {{< fa paper-plane >}} <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::
