@@ -196,7 +196,7 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 * **ISSN**: cek di portal ISSN resmi ([portal.issn.org](https://portal.issn.org))
 * **Cek kebijakan jurnal di _Open Policy Finder_**: cek kebijakan jurnal di [*Open Policy Finder*](https://openpolicyfinder.jisc.ac.uk/) (dulu SHERPA-RoMEO). Kalau jurnal terdaftar di laman terssebut, maka mungkin jurnal tersebut _legitimate_ (asli)
 * **Editorial board**: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?
-* **Biaya**: apakah ada *submission charge* sebelum review? → **RED FLAG**
+* **Biaya**: apakah ada *submission charge* sebelum review? → 🔴**RED FLAG**🔴
   * APC yang ditagih **setelah *accepted*** = normal di jurnal OA bereputasi
 * **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (_turnaround time_)?
 * **Konten**: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?

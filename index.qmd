@@ -56,6 +56,7 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 _Workshop_ ini **tidak akan membahas** secara spesifik bagaimana menulis bagian _methods_ dan _results_ karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.
 
 Cek _Journal Articles Reporting Standards_ (JARS):
+
 * Untuk penelitian kuantitatif: [_Checklist_](https://apastyle.apa.org/jars/quantitative); [Appelbaum, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-002.pdf)
 * Untuk penelitian kualitatif: [_Checklist_](https://apastyle.apa.org/jars/qualitative); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
 * Untuk penelitian _mixed methods_: [_Checklist_](https://apastyle.apa.org/jars/mixed-methods); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
@@ -74,7 +75,7 @@ Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **
 - Etika publikasi: kepengarangan, plagiarisme, dan peran promotor
 - Krisis replikasi dan mengapa prinsip *open science* penting
 - Manajemen data penelitian (RDM): prinsip FAIR, *open data policy* jurnal, dan _platform_ untuk deposit data (OSF, Zenodo)
-- Sumber belajar lanjutan yang direkomendasikan
+- Menggunakan LLM untuk meneliti dan menulis
 - **Latihan menulis**: *scientific sell* (1 paragraf)
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 2](slides/bagian-2.html){.btn .btn-primary}

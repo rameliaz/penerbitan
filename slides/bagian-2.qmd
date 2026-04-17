@@ -43,23 +43,18 @@ execute:
 
 ## 4️⃣®️ dalam memilih jurnal
 
-:::: {.columns}
-::: {.column}
 ::: {.incremental}
-* **Relevance** — apakah topik Anda benar-benar sesuai dengan *scope* jurnal?
-* **Reach** — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?
-* **Reputation** — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya *impact factor*)
-* **Realism** — apakah naskah Anda kompetitif untuk jurnal tersebut?
-:::
-:::
-::: {.column}
-::: {.callout-note}
-**Bonus R**: **Resources**
+* **_Relevance_** — apakah topik Anda benar-benar sesuai dengan *scope* jurnal?
+* **_Reach_** — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?
+* **_Reputation_** — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya *impact factor*)
+* **_Realism_** — apakah naskah Anda kompetitif untuk jurnal tersebut?
 
-Berapa APC? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek dulu — banyak jurnal yang menyediakan waiver tapi tidak dipromosikan secara aktif.
+::: {.callout-note}
+**Bonus R**: **_Resources_**
+
+Berapa APC yang harus dibayarkan? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek dulu, karena banyak jurnal yang menyediakan _waiver_ tapi tidak disebutkan secara eksplisit.
 :::
 :::
-::::
 
 ## Metrik bukan ukuran kualitas — hanya heuristik
 
@@ -97,12 +92,13 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 ## Strategi khusus untuk *review articles*
 
 ::: {.incremental}
-* *Scoping* dan *systematic review* punya masih punya tempat di komunitas ilmiah — tapi kompetisi juga ketat
+* *Scoping* dan *systematic review* punya masih punya tempat di komunitas ilmiah, tetapi kompetisi juga ketat
   - Ada tren _scoping_ dan _systematic review_ lebih sulit diterbitkan karena ada lonjakan tipe artikel yang sama yang berasal dari [_paper mill_](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
 * Sebelum menulis, lakukan **cek duplikasi**: apakah _review_ serupa sudah diterbitkan baru-baru ini?
   * Jika ya → naskah Anda harus punya **nilai tambah** yang jelas
 * *Novelty* bisa datang dari: **populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat**
-* Beberapa jurnal punya ***section* khusus** untuk _review articles_ — prioritaskan ini
+  - Gunakan strategi _systematic search_ meskipun untuk _scoping review_
+* Beberapa jurnal punya ***section* khusus** untuk _review articles_, jadi prioritaskan jurnal-jurnal ini
 :::
 
 ::: {.callout-note}
@@ -117,7 +113,7 @@ Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/pros
   * Cek di website jurnal atau tanya kolega yang pernah *submit* ke jurnal tersebut
 * **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
   * Selalu **tanyakan *waiver*** jika tersedia
-* ***Submission charge***: **RED FLAG** — jurnal bereputasi tidak meminta biaya **sebelum** *peer-review*
+* ***Submission charge***: 🔴**RED FLAG**🔴 — jurnal dengan pengelolaan yang baik tidak meminta biaya **sebelum** *peer-review*
 * **Komunikasi editorial**: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?
 :::
 
@@ -130,13 +126,13 @@ Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/pros
   * **Pernyataan singkat** tentang apa yang dilakukan dan mengapa relevan untuk jurnal tersebut
   * **Kontribusi utama** dalam 2–3 kalimat — apa *novelty*-nya?
   * **Konfirmasi** bahwa naskah tidak sedang disubmit ke jurnal lain (*no simultaneous submission*)
-  * **Konfirmasi** kelayakan etik (*ethical clearance*) jika relevan
+  * **Konfirmasi** kelayakan etik (*ethical clearance*) hanya jika relevan
 * Sebutkan secara **eksplisit mengapa naskah ini cocok** untuk jurnal yang dituju
 :::
 
 ::: {.callout-note}
-#### Sebenarnya
-Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyiapkan naskah. _Cover letter_ dapat ditulis LLM.
+#### Sebenarnya🙈
+Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyiapkan naskah. _Cover letter_ dapat ditulis oleh LLM.
 :::
 
 ## Saat menerima *review*: jangan langsung dibalas
@@ -229,7 +225,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 
 ## *Hedging language* yang tepat
 
-| **Hindari** | **Lebih baik** |
+| ⛔Hindari⛔ | ✅Gunakan✅ |
 |---|---|
 | *"membuktikan bahwa..."* | *"mengindikasikan bahwa..."* / *"konsisten dengan..."* |
 | *"belum ada penelitian..."* | *"sejauh yang diketahui peneliti..."* |
@@ -237,20 +233,18 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 | *"semua..."* | *"sebagian besar partisipan dalam studi ini..."* |
 | *"selalu terjadi..."* | *"cenderung terjadi dalam konteks..."* |
 
-: Contoh penggunaan *hedging language* dalam penulisan ilmiah. *Hedging* adalah tanda kejujuran ilmiah.
-
 ## Etika publikasi yang perlu diperhatikan
 
 ::: {.incremental}
 * **Kepengarangan (*authorship*)**: hanya cantumkan nama yang benar-benar **berkontribusi secara substansial**
   * *Ghost authorship* dan *gift authorship* adalah pelanggaran etika yang serius
 * **Plagiarisme**: parafrase bukan menyalin. Setiap ide yang bukan milik Anda **harus diatribusikan**
-* ***Ethical clearance***: semakin banyak jurnal internasional mensyaratkan ini, bahkan untuk review articles (*PRISMA-P*)
-  - Meskipun _ethical clearance_ sangat tergantung pada kebijakan institusi
+* ***Ethical clearance***: semakin banyak jurnal internasional mensyaratkan ini, bahkan untuk *review articles* (*PRISMA-P*)
+  - Meskipun begitu, perlu/tidaknya _ethical clearance_ sangat tergantung pada kebijakan institusi
 * **Peran promotor**: supervisor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya, bukan hanya formalitas pencantuman nama
-  - Umumnya, penelitian doktoral adalah penelitian mandiri yang dilakukan oleh mahasiswa, bukan penelitian kolaborasi dengan promotor/ko-promotor
-  - Diskusikan secara terbuka dengan promotor/ko-promotor tentang kontribusi dan peran masing-masing dalam penulisan artikel
-  - Jangan menambahkan nama promotor/ko-promotor tanpa persetujuan sebelumnya
+  - Umumnya, penelitian doktoral adalah **penelitian mandiri** yang dilakukan oleh mahasiswa, bukan penelitian kolaborasi dengan promotor/ko-promotor
+  - **Diskusikan secara terbuka** dengan promotor/ko-promotor tentang kontribusi dan peran masing-masing dalam penulisan artikel
+  - Jangan menambahkan nama promotor/ko-promotor **tanpa persetujuan** sebelumnya
 :::
 
 ## Konteks lebih luas: krisis replikasi
@@ -263,6 +257,22 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
   * **Hati-hati** dengan menarik kesimpulan dari satu studi 
   * Pertimbangkan **kualitas metodologi** studi yang Anda review, bukan hanya jumlahnya
   * Prinsip *open science* (e.g., transparansi, kredibilitas, coba-ulang - _replication_, dan reka-ulang - _reproducibility_) saat ini merupakan tren global dan sudah menjadi norma baru
+:::
+
+## *Open science* untuk penulis *review*
+
+::: {.incremental}
+* **Daftarkan protokol** _review_ Anda di PROSPERO atau OSF *sebelum* pengumpulan data
+* **Laporkan proses sedetail mungkin** — termasuk studi yang tidak memenuhi kriteria, dan mengapa
+* Gunakan ***checklist* PRISMA** dengan jujur dan lengkap
+* **Bagikan data ekstraksi** (*data extraction sheets*), jika memungkinkan, sebagai bentuk komitmen pada prinsip *open data*
+  - Kalau menggunakan _software systematic review managemen_ seperti [ASReview](https://asreview.nl/) atau [Rayyan](https://www.rayyan.ai/), maka jelaskan [_stopping rules_](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1762)-nya
+* **Laporkan *heterogeneity*** dengan transparan, bukan hanya *pooled effect size estimate*
+:::
+
+::: {.callout-note}
+#### *Open science* meningkatkan peluang diterimanya artikel
+Praktik *open science* bukan hanya soal etika penelitian, tetapi juga meningkatkan **peluang diterima** di jurnal bereputasi baik, yang hari ini, banyak yang meminta penulis mengadopsi prinsip _open science_.
 :::
 
 ## TUGAS 2️⃣: *Scientific Sell* (25 menit)
@@ -298,20 +308,6 @@ Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
 :::
 :::
 ::::
-
-## *Open science* untuk penulis *review*
-
-::: {.incremental}
-* **Daftarkan protokol** review Anda di PROSPERO atau OSF *sebelum* pengumpulan data
-* **Laporkan proses selengkapnya** — termasuk studi yang tidak memenuhi kriteria, dan mengapa
-* Gunakan ***checklist* PRISMA** dengan jujur dan lengkap
-* **Bagikan data ekstraksi** (*data extraction sheets*) jika memungkinkan — ini *open data*
-* **Laporkan *heterogeneity*** dengan transparan, bukan hanya *pooled estimate*
-:::
-
-::: {.callout-note}
-Praktik *open science* bukan hanya soal etika — ini juga meningkatkan **peluang diterima** di jurnal bereputasi tinggi yang semakin mensyaratkan transparansi.
-:::
 
 # Manajemen data penelitian {background-color="#14497F" .center}
 
@@ -361,24 +357,9 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 :::
 ::::
 
-# Sumber belajar lanjutan {background-color="#14497F" .center}
+# Menggunakan LLM🤖 {background-color="#14497F" .center}
 
-## Sumber belajar yang direkomendasikan
-
-::: {.incremental}
-**Gratis & *online***:
-
-* [**Editage Insights**](https://www.editage.com/insights/) — panduan praktis menulis dan mempublikasikan naskah
-* [**Elsevier Researcher Academy**](https://researcheracademy.elsevier.com/) — kursus terstruktur untuk peneliti
-* [**COPE**](https://publicationethics.org/) (*Committee on Publication Ethics*) — panduan etika publikasi
-* [**PRISMA**](https://www.prisma-statement.org/) — *checklist* untuk *systematic/scoping review*
-* [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) — registrasi protokol *systematic review*
-* [**OSF**](https://osf.io/) (*Open Science Framework*) — *pre-registration* dan *open data*
-* [**DOAJ**](https://doaj.org/) — cek legitimasi jurnal *open access*
-* [**Scimago Journal Rank**](https://www.scimagojr.com/) — cek quartile dan SJR jurnal
-:::
-
-## Tentang penggunaan LLM dalam menulis
+## Tentang penggunaan LLM dalam meneliti dan menulis
 
 ::: {.incremental}
 * *Large Language Model* (LLM) seperti ChatGPT, Gemini, dan Claude kini umum digunakan, termasuk di komunitas akademik.
@@ -393,8 +374,21 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 :::
 
 ::: {.callout-warning}
-**Penting**: Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM dengan bijaksana dan laporkan secara transparan.
+**Penting**: Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan.
 :::
+
+## Beberapa _LLM-based software_ yang [membantu saya](https://ameliazein.notion.site/Tinjauan-literatur-terstruktur-d6f40a3a7b7f45efbad1c2cff6e3c418?source=copy_link)
+
+* [Claude Code](https://code.claude.com/docs/en/overview)
+  - Digunakan sebagai _coding assistant_ dan otomatisasi _workflow_
+
+* [ChatPDF](https://www.chatpdf.com/) ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam 
+
+* [Research Rabbit AI](https://app.researchrabbit.ai/) ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi
+
+* [ScienceOS](https://www.scienceos.ai/) ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif 
+  - Model LLM sudah di*fine-tune* agar lebih responsif dengan konteks saintifik
+
 
 ## Ada pertanyaan❓
 
