@@ -207,28 +207,42 @@
     "href": "slides/bagian-1.html#lebih-dari-sekadar-kewajiban-administratif",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Lebih dari sekadar kewajiban administratif",
-    "text": "Lebih dari sekadar kewajiban administratif\n\nPublikasi adalah cara pengetahuan disebarluaskan, diuji, dan dikritisi oleh komunitas ilmiah\nTanggung jawab moral peneliti — temuan yang tidak dipublikasikan adalah pengetahuan yang hilang\nBukan digunakan untuk mengukur kualitas peneliti, tetapi sebagai kontribusi pada perkembangan keilmuan\nMemupuk academic ethos → persistence & hardworking\nBagian dari semangat knowledge sharing — ilmu yang baik harus bisa diakses dan diverifikasi"
+    "text": "Lebih dari sekadar kewajiban administratif\n\nPublikasi adalah cara pengetahuan disebarluaskan, diuji, dan dikritisi oleh komunitas ilmiah\nTanggung jawab moral peneliti — temuan yang tidak dipublikasikan adalah pengetahuan yang hilang\nBukan digunakan untuk mengukur kualitas peneliti, tetapi sebagai kontribusi pada perkembangan keilmuan\nMemupuk academic ethos → persistence & hardworking\nBagian dari semangat knowledge sharing — ilmu yang baik harus bisa diakses dan diverifikasi\nLangkah pertama sebelum menulis adalah mengenali lanskap publikasi ilmiah dan memilih outlet yang dituju untuk publikasi"
   },
   {
-    "objectID": "slides/bagian-1.html#yang-terjadi-kalau-kita-salah-memilih",
-    "href": "slides/bagian-1.html#yang-terjadi-kalau-kita-salah-memilih",
+    "objectID": "slides/bagian-1.html#yang-terjadi-kalau-kita-salah-memilih-outlet",
+    "href": "slides/bagian-1.html#yang-terjadi-kalau-kita-salah-memilih-outlet",
     "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Yang terjadi kalau kita salah memilih…",
-    "text": "Yang terjadi kalau kita salah memilih…\n\nNaskah diterbitkan di jurnal bogus/predatory, akibatnya:\n\nReputasi tercederai — siapapun yang namanya tercantum: mahasiswa maupun promotor\nMerupakan indikasi bahwa peneliti memilih jalan instan (padahal keseluruhan prosesnya ‘berliku-liku’)\nMempersulit karir dalam jangka panjang — baik akademik maupun struktural\nKhilaf satu-dua kali, that’s okay. Tapi kalau berulang, terindikasi tidak jujur\n\n\n\n\n\n\n\n\nWarning\n\n\nPenting: Oleh karena itu, memilah jurnal adalah proses yang sangat penting — dan ini yang akan kita bahas hari ini."
+    "section": "Yang terjadi kalau kita salah memilih outlet…",
+    "text": "Yang terjadi kalau kita salah memilih outlet…\n\nNaskah diterbitkan di jurnal palsu/pemangsa, akibatnya:\n\nReputasi tercederai — siapapun yang namanya tercantum: mahasiswa maupun promotor\nMerupakan indikasi bahwa peneliti memilih jalan instan (padahal keseluruhan prosesnya ‘berliku-liku’)\nMempersulit karir dalam jangka panjang — baik akademik maupun struktural\nKhilaf satu-dua kali, that’s okay. Tapi kalau berulang, ada indikasi ketidakjujuran\n\n\n\n\n\n\n\n\nPenting untuk memilah outlet\n\n\nOleh karena itu, memilah jurnal adalah proses yang sangat penting — dan akan kita bahas lebih lanjut di sesi ini."
   },
   {
     "objectID": "slides/bagian-1.html#moda-komunikasi-kesarjanaan",
     "href": "slides/bagian-1.html#moda-komunikasi-kesarjanaan",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Moda komunikasi kesarjanaan",
-    "text": "Moda komunikasi kesarjanaan\nKarya ilmiah dapat dikomunikasikan dalam berbagai bentuk:\n\nMonograf & bab buku (edited book) — relevan khususnya di bidang humaniora dan ilmu sosial\nPreprint — versi naskah sebelum peer-review, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)\nConference paper / proceedings — presentasi di konferensi; berguna untuk jaringan tetapi tidak selalu peer-reviewed\nArtikel jurnal — melalui proses peer-review; bentuk yang paling diakui dalam PAK dan karir akademik\n\n\n\n\n\n\n\nNote\n\n\nWorkshop ini berfokus pada artikel jurnal ilmiah — tapi moda komunikasi lain tetap bernilai sebagai bagian portofolio akademik Anda."
+    "text": "Moda komunikasi kesarjanaan\n\n\nKarya ilmiah dapat dikomunikasikan dalam berbagai bentuk:\n\nMonograf & bab buku (edited book) — relevan khususnya di bidang humaniora dan ilmu sosial\n\nMagnum opus ilmuwan-ilmuwan yang berpengaruh dari bidang sosial-humaniora biasanya berupa monograf\n\nPreprint — versi naskah sebelum ditinjau sejawat (peer-review), diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)\nPostprint — versi naskah yang sudah ditinjau sejawat tetapi belum ditata letak sesuai gaya selingkung (in-house style) penerbit terbitan berkala ilmiah.\nConference paper / proceedings — presentasi di konferensi; berguna untuk membangun jaringan tetapi tidak selalu ditinjau sejawat\n\nModa utama untuk sejawat di computer dan cognitive science\n\nArtikel jurnal — melalui proses tinjauan sejawat; yang paling diinginkan dalam PAK dan karir akademik"
   },
   {
-    "objectID": "slides/bagian-1.html#jenis-artikel-ilmiah",
-    "href": "slides/bagian-1.html#jenis-artikel-ilmiah",
+    "objectID": "slides/bagian-1.html#jenis-artikel-ilmiah-1",
+    "href": "slides/bagian-1.html#jenis-artikel-ilmiah-1",
     "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Jenis artikel ilmiah",
-    "text": "Jenis artikel ilmiah\n\n\nBerbasis data primer\n\nOriginal research (artikel empiris)\nBrief/short communication\nCase study/report\nRegistered Report ⭐ — desain & hipotesis dinilai reviewer sebelum data dikumpulkan dan dianalisis\n\n\nBerbasis literatur (sekunder)\n\nSystematic review\nScoping review\nMeta-analysis\nNarrative review / conceptual paper\nMethodological paper"
+    "section": "Jenis artikel ilmiah 1️⃣",
+    "text": "Jenis artikel ilmiah 1️⃣\nBerbasis data primer\n\nOriginal research (artikel empiris)\n\nPendek – satu atau dua studi\nPanjang – multiple studies article – bisa 4-12 studi dalam satu artikel\nArtikel replikasi (registered replication reports (RRR, Simons, et al., 2014))\nArtikel dengan protokol yang terdaftar sebelumnya (preregistered studies)\nPenelitian simulasi\n\nBrief/short communication\nCase study/report\nRegistered Report ⭐ — desain & hipotesis dinilai reviewer sebelum data dikumpulkan dan dianalisis"
+  },
+  {
+    "objectID": "slides/bagian-1.html#jenis-artikel-ilmiah-2",
+    "href": "slides/bagian-1.html#jenis-artikel-ilmiah-2",
+    "title": "Ekosistem Publikasi Ilmiah",
+    "section": "Jenis artikel ilmiah 2️⃣",
+    "text": "Jenis artikel ilmiah 2️⃣\nBerbasis literatur (sekunder)\n\nMeta Studies\n\nScoping review, systematic review, meta analysis\n\nNarrative review / conceptual paper\nMethodological paper\n\nTutorial, book review, data paper\n\nTarget article\n\nTarget article → Commentary → Rejoinder\nBiasanya highly citable tetapi… kadang-kadang menjadi sumber “drama” karena memantik kontroversi dan debat yang ekstrim\nCenderung “spekulatif” tetapi biasanya banyak dibaca orang karena mengandung “prediksi teoritis.”"
+  },
+  {
+    "objectID": "slides/bagian-1.html#registered-reports-chambers-2015",
+    "href": "slides/bagian-1.html#registered-reports-chambers-2015",
+    "title": "Ekosistem Publikasi Ilmiah",
+    "section": "Registered reports (Chambers, 2015)",
+    "text": "Registered reports (Chambers, 2015)\n\n\n\nFormat artikel yang populer baru-baru ini\n\nTujuannya, untuk memastikan penelitian benar-benar cermat secara ilmiah.\nMenghindari questionable research practices, seperti hypothesizing after results are known (HARK-ing).\n\nPeneliti diminta untuk submit perencanaan studi/protokol (sebelum pengambilan data) untuk kemudian ditinjau sejawat di tahap satu.\nSetelah lolos tinjauan sejawat tahap satu (“accepted in principle”), kemudian peneliti mengambil data dan melaporkan temuannya.\nSetelah itu, artikel ditinjau di tahap kedua untuk diambil keputusan penerbitannya.\nAda 304 jurnal yang menyediakan opsi registered reports dari berbagai disiplin; mulai dari psikologi, biomedis, manajemen, linguistik, biologi, ilmu politik, dsb."
   },
   {
     "objectID": "slides/bagian-1.html#ekosistem-pengetahuan-ilmiah",
@@ -249,14 +263,14 @@
     "href": "slides/bagian-1.html#pangkalan-data-database",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Pangkalan data (database)",
-    "text": "Pangkalan data (database)\n\nScopus — indeks internasional paling umum digunakan di Indonesia (Elsevier)\nWeb of Science (WoS) / Web of Knowledge — lebih selektif dari Scopus\nAPA PsycNET — khusus literatur psikologi\nEBSCO, JSTOR — multi-disiplin\nDOAJ (Directory of Open Access Journals) — khusus jurnal open access\nSINTA — pangkalan data nasional Indonesia (Kemdikbudristek)\nGoogle Scholar — berguna untuk menemukan artikel, bukan untuk mengklaim kualitas jurnal\n\n\n\n\n\n\n\nWarning\n\n\nPenting: Terindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada."
+    "text": "Pangkalan data (database)\n\nScopus — indeks internasional paling umum digunakan di Indonesia (Elsevier)\nWeb of Science (WoS) / Web of Knowledge — lebih selektif dari Scopus\nAPA PsycNET — khusus literatur psikologi\nEBSCO, JSTOR — multi-disiplin\nDOAJ (Directory of Open Access Journals) — khusus jurnal open access\nSINTA — pangkalan data nasional Indonesia (Kemdikbudristek)\nGoogle Scholar — berguna untuk menemukan artikel, bukan untuk mengklaim kualitas jurnal\n\n\n\n\n\n\n\nPenting\n\n\nTerindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada."
   },
   {
     "objectID": "slides/bagian-1.html#open-access-oa-vs-non-oa-journal",
     "href": "slides/bagian-1.html#open-access-oa-vs-non-oa-journal",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Open access (OA) vs non-OA journal",
-    "text": "Open access (OA) vs non-OA journal\n\nOpen access (OA)\n\nArtikel bisa diakses bebas tanpa biaya langganan\nHak cipta (copyrights) tetap di tangan penulis\nPenulis biasanya membayar Article Processing Charge (APC) — dibayar setelah naskah accepted\n\nNon-OA journal\n\nPembaca membutuhkan biaya langganan yang mahal\nHak cipta (copyrights) ditransfer ke jurnal/penerbit\nBiasanya tidak ada APC untuk penulis\n\n\n\n\n\n\n\n\nNote\n\n\nJenis akses tidak berkaitan dengan kualitas — ada banyak jurnal OA yang sangat bagus dan banyak non-OA journal yang kualitasnya rendah."
+    "text": "Open access (OA) vs non-OA journal\n\nOpen access (OA)\n\nArtikel bisa diakses bebas tanpa biaya langganan\nHak cipta (copyrights) tetap di tangan penulis\nPenulis biasanya membayar Article Processing Charge (APC) — dibayar setelah naskah accepted\n\nNon-OA journal\n\nPembaca membutuhkan biaya langganan yang mahal\nHak cipta (copyrights) ditransfer ke jurnal/penerbit\nBiasanya tidak ada APC untuk penulis\n\n\n\n\n\n\n\n\nPenting diingat\n\n\nJenis akses tidak berkaitan dengan kualitas — ada banyak jurnal OA yang sangat bagus dan banyak non-OA journal yang kualitasnya rendah."
   },
   {
     "objectID": "slides/bagian-1.html#jurnal-berdasarkan-open-access-policy",
@@ -375,7 +389,7 @@
     "href": "slides/bagian-1.html#mengapa-discussion-itu-paling-sulit",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Mengapa Discussion itu paling sulit?",
-    "text": "Mengapa Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results, tetapi interpretasi dan sintesis atas hasil penelitiat\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi mayor\nGunakan hedging yang tepat ketika menulis Discussion, jangan oversell!\n\nAkan dibahas lebih detail di blok selanjutnya\n\n\n\n\n\n\n\n\nNote\n\n\nPrinsip utama: Discussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
+    "text": "Mengapa Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results, tetapi interpretasi dan sintesis atas hasil penelitiat\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi mayor\nGunakan hedging yang tepat ketika menulis Discussion, jangan oversell!\n\nAkan dibahas lebih detail di blok selanjutnya\n\n\n\n\n\n\n\n\nPrinsip utama\n\n\nDiscussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
   },
   {
     "objectID": "slides/bagian-1.html#alur-discussion-yang-efektif",
@@ -385,11 +399,11 @@
     "text": "Alur Discussion yang efektif\nStruktur Discussion yang baik mengalir dalam tiga bagian:\n\nPembukaan — re-state pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama\n\nBukan mengulang angka dari Results, tetapi sajikan interpretasi atas temuan\n\nBadan — elaborasi dan perbandingan:\n\nInterpretasi mendalam atas temuan\nPerbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?\nImplikasi teoritis dan/atau praktis\n\nPenutup — keterbatasan dan future directions:\n\nUngkapkan keterbatasan penelitian secara jujur\nRekomendasi untuk penelitian selanjutnya"
   },
   {
-    "objectID": "slides/bagian-1.html#yang-perlu-ada-dan-yang-perlu-dihindari",
-    "href": "slides/bagian-1.html#yang-perlu-ada-dan-yang-perlu-dihindari",
+    "objectID": "slides/bagian-1.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
+    "href": "slides/bagian-1.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
     "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Yang perlu ada — dan yang perlu dihindari",
-    "text": "Yang perlu ada — dan yang perlu dihindari\n\n\nPerlu ada ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang dideskripsikan secara jujur\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
+    "section": "Yang perlu dipastikan ada — dan yang perlu dihindari",
+    "text": "Yang perlu dipastikan ada — dan yang perlu dihindari\n\n\nPerlu dipastikan tercantum ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang dideskripsikan secara jujur\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
   },
   {
     "objectID": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
@@ -403,7 +417,7 @@
     "href": "slides/bagian-1.html#ngeles-dengan-elegan",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "“Ngeles dengan elegan”",
-    "text": "“Ngeles dengan elegan”\n\nSemua penelitian punya keterbatasan — jangan disembunyikan, justru tuliskan secara transparan\nTapi: membahas keterbatasan bukan berarti apologetic atas kekurangan penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur\n\n\n\n\n\n\n\n\n\nWarning\n\n\nTerlalu apologetik ❌\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nElegan ✅\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya - pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
+    "text": "“Ngeles dengan elegan”\n\nSemua penelitian punya keterbatasan — jangan disembunyikan, justru tuliskan secara transparan\nTapi: membahas keterbatasan bukan berarti apologetic atas kekurangan penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur\n\n\n\n\n\n\n\n\n\nTerlalu apologetik ❌\n\n\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nElegan ✅\n\n\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya - pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
   },
   {
     "objectID": "slides/bagian-1.html#bagaimana-membahas-null-results",
@@ -424,7 +438,7 @@
     "href": "slides/bagian-1.html#contoh-elevator-pitch-yang-baik",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Contoh elevator pitch yang baik",
-    "text": "Contoh elevator pitch yang baik\n\n\n\n\n\n\n\n\nWarning\n\n\nKurang baik ❌\n“Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review.”\nMasalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nLebih baik ✅\n“Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis komunitas di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya.”"
+    "text": "Contoh elevator pitch yang baik\n\n\n\n\n\n\n\n\nKurang baik ❌\n\n\n“Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review.”\nMasalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.\n\n\n\n\n\n\n\n\n\n\nLebih baik ✅\n\n\n“Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis komunitas di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya.”"
   },
   {
     "objectID": "slides/bagian-1.html#ada-pertanyaan",

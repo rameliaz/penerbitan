@@ -40,64 +40,105 @@ execute:
 * **Bukan** digunakan untuk mengukur kualitas peneliti, tetapi sebagai **kontribusi** pada perkembangan keilmuan
 * Memupuk *academic ethos* → **persistence** & **hardworking**
 * Bagian dari semangat *knowledge sharing* — ilmu yang baik harus bisa diakses dan diverifikasi
+* **Langkah pertama** sebelum menulis adalah mengenali lanskap publikasi ilmiah dan memilih _outlet_ yang dituju untuk publikasi
 :::
 
-## Yang terjadi kalau kita salah memilih...
+## Yang terjadi kalau kita salah memilih _outlet_...
 
 ::: {.incremental}
-* Naskah diterbitkan di jurnal *bogus/predatory*, akibatnya:
+* Naskah diterbitkan di jurnal palsu/pemangsa, akibatnya:
   * **Reputasi** tercederai — siapapun yang namanya tercantum: mahasiswa maupun promotor
   * Merupakan indikasi bahwa peneliti memilih **jalan instan** (padahal keseluruhan prosesnya 'berliku-liku')
   * **Mempersulit karir** dalam jangka panjang — baik akademik maupun struktural
-  * Khilaf satu-dua kali, *that's okay*. Tapi kalau berulang, terindikasi tidak jujur
+  * Khilaf satu-dua kali, *that's okay*. Tapi kalau berulang, ada indikasi ketidakjujuran
 :::
 
 ::: {.callout-warning}
-**Penting**: Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** — dan ini yang akan kita bahas hari ini.
+### Penting untuk memilah _outlet_ 
+Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** — dan akan kita bahas lebih lanjut di sesi ini.
 :::
 
 # Moda komunikasi & jenis artikel {background-color="#14497F" .center}
 
 ## Moda komunikasi kesarjanaan
 
+::: {.columns}
+::: {.column width="60%"}
+
 ::: {.incremental}
 Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 
 * **Monograf & bab buku** (*edited book*) — relevan khususnya di bidang humaniora dan ilmu sosial
-* ***Preprint*** — versi naskah *sebelum peer-review*, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)
-* ***Conference paper*** / *proceedings* — presentasi di konferensi; berguna untuk jaringan tetapi tidak selalu *peer-reviewed*
-* **Artikel jurnal** — melalui proses *peer-review*; bentuk yang paling diakui dalam PAK dan karir akademik
+  - Magnum opus ilmuwan-ilmuwan yang berpengaruh dari bidang sosial-humaniora biasanya berupa monograf
+* ***Preprint*** — versi naskah *sebelum ditinjau sejawat (peer-review)*, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)
+* ***Postprint*** — versi naskah yang sudah ditinjau sejawat tetapi belum ditata letak sesuai gaya selingkung (_in-house style_) penerbit terbitan berkala ilmiah.
+* ***Conference paper*** / *proceedings* — presentasi di konferensi; berguna untuk membangun jaringan tetapi tidak selalu ditinjau sejawat
+  - Moda utama untuk sejawat di _computer_ dan _cognitive science_
+* **Artikel jurnal** — melalui proses tinjauan sejawat; yang paling diinginkan dalam PAK dan karir akademik
 :::
 
-::: {.callout-note}
-Workshop ini berfokus pada **artikel jurnal ilmiah** — tapi moda komunikasi lain tetap bernilai sebagai bagian portofolio akademik Anda.
+:::
+::: {.column width="40%"}
+
+![](libs/monograf.PNG){fig-align="center" width="80%"}
+
+:::
 :::
 
-## Jenis artikel ilmiah
+## Jenis artikel ilmiah 1️⃣ 
 
-:::: {.columns}
-::: {.column}
 ::: {.incremental}
 **Berbasis data primer**
 
 * ***Original research*** (artikel empiris)
+  - Pendek – satu atau dua studi
+  - Panjang – multiple studies article – bisa 4-12 studi dalam satu artikel
+  - Artikel replikasi (_registered replication reports_ (RRR, [Simons, et al., 2014](https://journals.sagepub.com/doi/10.1177/1745691614543974)))
+  - Artikel dengan protokol yang terdaftar sebelumnya (_preregistered studies_)
+  - Penelitian simulasi
 * ***Brief/short communication***
 * ***Case study/report***
 * [***Registered Report***](https://www.cos.io/initiatives/registered-reports) ⭐ — desain & hipotesis dinilai *reviewer* **sebelum** data dikumpulkan dan dianalisis
 :::
-:::
-::: {.column}
+
+## Jenis artikel ilmiah 2️⃣ 
+
 ::: {.incremental}
 **Berbasis literatur (sekunder)**
 
-* ***Systematic review***
-* ***Scoping review***
-* ***Meta-analysis***
+* ***Meta Studies***
+  - _Scoping review_, _systematic review_, _meta analysis_
 * ***Narrative review*** / *conceptual paper*
 * ***Methodological paper***
+  - Tutorial, _book review_, _data paper_
+* ***Target article***
+  - _Target article_ → _Commentary_ → _Rejoinder_
+  - Biasanya _highly citable_ tetapi… kadang-kadang menjadi sumber “drama” karena memantik kontroversi dan debat yang ekstrim
+  - Cenderung “spekulatif” tetapi biasanya banyak dibaca orang karena mengandung “prediksi teoritis.”
+:::
+
+## Registered reports ([Chambers, 2015](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.12728))
+
+::: {.columns}
+::: {.column width="60%"}
+
+::: {.incremental}
+* Format artikel yang populer baru-baru ini
+  - Tujuannya, untuk memastikan penelitian benar-benar cermat secara ilmiah.
+  - Menghindari [_questionable research practices_](https://doi.org/10.1177/0956797611430953), seperti [_hypothesizing after results are known (HARK-ing)_](https://journals.sagepub.com/doi/10.1207/s15327957pspr0203_4).
+* Peneliti diminta untuk submit perencanaan studi/protokol (sebelum pengambilan data) untuk kemudian ditinjau sejawat di tahap satu.
+* Setelah lolos tinjauan sejawat tahap satu ("_accepted in principle_"), kemudian peneliti mengambil data dan melaporkan temuannya.
+* Setelah itu, artikel ditinjau di tahap kedua untuk diambil keputusan penerbitannya.
+* Ada [304 jurnal](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit?gid=0#gid=0) yang menyediakan opsi registered reports dari berbagai disiplin; mulai dari psikologi, biomedis, manajemen, linguistik, biologi, ilmu politik, dsb.
+
 :::
 :::
-::::
+
+::: {.column width="40%"}
+![](libs/rr.PNG){fig-align="center"}
+
+:::
+:::
 
 # Lanskap jurnal ilmiah {background-color="#14497F" .center}
 
@@ -153,7 +194,8 @@ Tiga komponen utama:
 :::
 
 ::: {.callout-warning}
-**Penting**: Terindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada.
+#### Penting 
+Terindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada.
 :::
 
 ## *Open access* (OA) vs *non-OA journal*
@@ -171,6 +213,7 @@ Tiga komponen utama:
 :::
 
 ::: {.callout-note}
+#### Penting diingat
 Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *non-OA journal* yang kualitasnya rendah.
 :::
 
@@ -187,9 +230,12 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 
 ## Jurnal berdasarkan *open access policy*
 
+::: {.incremental}
+
 * Jurnal _hybrid_ sering dianggap model yang paling tidak menguntungkan peneliti 
 * Penerbit mendapatkan pemasukan dari APC *dan* biaya langganan dari institusi ([*"double dipping"*](https://www.coalition-s.org/why-hybrid-journals-do-not-lead-to-full-and-immediate-open-access/)) 
 * [*cOAlition S* atau *Plan S*](https://www.coalition-s.org/), yaitu koalisi *funder* Eropa yang mencakup Wellcome Trust dan banyak lembaga riset di Eropa (e.g., Deustche Forschungsgemeinschaft (DFG)), secara eksplisit melarang publikasi di jurnal *hybrid* kecuali ada *transformative agreement* antara institusi/konsorsium universitas dengan penerbit.
+:::
 
 # Waspada jurnal/penerbit pemangsa😼 {background-color="#14497F" .center}
 
@@ -438,7 +484,8 @@ Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](h
 :::
 
 ::: {.callout-note}
-Prinsip utama: *Discussion* yang baik menjawab pertanyaan ***"So what?"*** — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?
+#### Prinsip utama 
+*Discussion* yang baik menjawab pertanyaan ***"So what?"*** — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?
 :::
 
 ## Alur *Discussion* yang efektif
@@ -459,11 +506,11 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
    * Rekomendasi untuk penelitian selanjutnya
 :::
 
-## Yang perlu ada — dan yang perlu dihindari
+## Yang perlu dipastikan ada — dan yang perlu dihindari
 
 :::: {.columns}
 ::: {.column}
-**Perlu ada** ✅
+**Perlu dipastikan tercantum** ✅
 
 ::: {.incremental}
 * Interpretasi temuan utama
@@ -515,14 +562,14 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::: {.columns}
 ::: {.column}
 ::: {.callout-warning}
-**Terlalu apologetik** ❌
+#### Terlalu apologetik ❌
 
 *"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
 :::
 :::
 ::: {.column}
 ::: {.callout-note}
-**Elegan** ✅
+#### Elegan ✅
 
 *"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
 :::
@@ -572,7 +619,7 @@ Bisakah Anda menjelaskan topik riset Anda kepada seseorang di luar bidang Anda d
 :::: {.columns}
 ::: {.column}
 ::: {.callout-warning}
-**Kurang baik** ❌
+#### Kurang baik ❌
 
 *"Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review."*
 
@@ -581,7 +628,7 @@ Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian t
 :::
 ::: {.column}
 ::: {.callout-note}
-**Lebih baik** ✅
+#### Lebih baik ✅
 
 *"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis komunitas di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
 :::
