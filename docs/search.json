@@ -4,28 +4,84 @@
     "href": "slides/bagian-2.html#outline",
     "title": "Strategi Publikasi",
     "section": "Outline",
-    "text": "Outline\n\nStrategi memilih jurnal yang tepat\nIntegritas riset dan etika publikasi\nManajemen data penelitian (research data management)\nLatihan menulis: scientific sell\nMenggunakan LLM dalam riset dan penulisan"
+    "text": "Outline\n\nMenulis Introduction, Discussion, dan Abstract\nStrategi memilih jurnal yang tepat\nIntegritas riset dan etika publikasi\nManajemen data penelitian (research data management)\nLatihan menulis: scientific sell\nMenggunakan LLM dalam riset dan penulisan"
+  },
+  {
+    "objectID": "slides/bagian-2.html#introduction",
+    "href": "slides/bagian-2.html#introduction",
+    "title": "Strategi Publikasi",
+    "section": "Introduction",
+    "text": "Introduction\n\nBanyak penulis memperlakukan Introduction sebagai “ringkasan literatur” — padahal fungsinya berbeda\nIntroduction harus menjawab empat pertanyaan secara berurutan:\n\nApa yang sudah diketahui? — konteks dan state of the art\nApa yang belum diketahui/buktinya mixed? — research gap\nMengapa gap ini penting untuk diisi? — justifikasi penelitian\nApa yang akan dilakukan dalam studi ini? — tujuan dan pertanyaan penelitian\n\nStrukturnya seperti corong (funnel): dari luas ke spesifik\n\n\n\n\n\n\n\nCreate a research space (CARS)\n\n\nModel klasik yang berguna: CARS (Create A Research Space, Swales, 1990) — establish a territory → establish a niche → occupy the niche."
+  },
+  {
+    "objectID": "slides/bagian-2.html#menulis-introduction-untuk-review-articles",
+    "href": "slides/bagian-2.html#menulis-introduction-untuk-review-articles",
+    "title": "Strategi Publikasi",
+    "section": "Menulis Introduction untuk review articles",
+    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim sepihak dari penulis, tapi didukung argumen yang memadai\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”, atau “Manusia adalah makhluk sosial…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu\n\n\n\n\n\n\n\nIntroduction membentuk impresi editor\n\n\nIntroduction yang lemah adalah alasan desk rejection terbanyak kedua setelah ketidakcocokan scope."
+  },
+  {
+    "objectID": "slides/bagian-2.html#mengapa-menulis-discussion-itu-paling-sulit",
+    "href": "slides/bagian-2.html#mengapa-menulis-discussion-itu-paling-sulit",
+    "title": "Strategi Publikasi",
+    "section": "Mengapa menulis Discussion itu paling sulit?",
+    "text": "Mengapa menulis Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results, tetapi interpretasi dan sintesis atas hasil penelitian\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi naskah\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi mayor\nGunakan hedging yang tepat ketika menulis Discussion, jangan oversell!\n\n\n\n\n\n\n\nPrinsip utama\n\n\nDiscussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
+  },
+  {
+    "objectID": "slides/bagian-2.html#alur-discussion-yang-efektif",
+    "href": "slides/bagian-2.html#alur-discussion-yang-efektif",
+    "title": "Strategi Publikasi",
+    "section": "Alur Discussion yang efektif",
+    "text": "Alur Discussion yang efektif\nStruktur Discussion yang baik mengalir dalam tiga bagian:\n\nPembukaan — re-state pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama\n\nBukan mengulang angka dari Results, tetapi sajikan interpretasi atas temuan\n\nBadan — elaborasi dan perbandingan:\n\nInterpretasi mendalam atas temuan\nPerbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?\nImplikasi teoritis dan/atau praktis\n\nPenutup — keterbatasan dan future directions:\n\nUngkapkan keterbatasan penelitian secara jujur\nRekomendasi untuk penelitian selanjutnya"
+  },
+  {
+    "objectID": "slides/bagian-2.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
+    "href": "slides/bagian-2.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
+    "title": "Strategi Publikasi",
+    "section": "Yang perlu dipastikan ada — dan yang perlu dihindari",
+    "text": "Yang perlu dipastikan ada — dan yang perlu dihindari\n\n\nPerlu dipastikan tercantum ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang dideskripsikan secara jujur\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
+  },
+  {
+    "objectID": "slides/bagian-2.html#menulis-abstract-tulis-paling-terakhir",
+    "href": "slides/bagian-2.html#menulis-abstract-tulis-paling-terakhir",
+    "title": "Strategi Publikasi",
+    "section": "Menulis Abstract — tulis paling terakhir",
+    "text": "Menulis Abstract — tulis paling terakhir\n\nAbstract adalah bagian yang paling sering dibaca — tapi sebaiknya ditulis paling terakhir\nMengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis\nPrinsip: satu kalimat per bagian IMRAD\n\n1 kalimat → latar belakang/konteks dan research gap\n1 kalimat → pertanyaan penelitian / tujuan\n1–2 kalimat → metode\n1–2 kalimat → temuan utama\n1 kalimat → implikasi/kesimpulan\n\nAbstract harus bisa berdiri sendiri, pembaca yang tidak membaca naskah utuh tetap memahami isinya\n\n\n\n\n\n\n\nWarning\n\n\nHindari: menyalin kalimat langsung dari badan naskah. Abstract adalah ringkasan yang berdiri sendiri."
+  },
+  {
+    "objectID": "slides/bagian-2.html#ngeles-dengan-elegan",
+    "href": "slides/bagian-2.html#ngeles-dengan-elegan",
+    "title": "Strategi Publikasi",
+    "section": "“Ngeles dengan elegan”",
+    "text": "“Ngeles dengan elegan”\n\nSemua penelitian punya keterbatasan — jangan disembunyikan, justru tuliskan secara transparan\nTapi: membahas keterbatasan bukan berarti apologetic atas kekurangan penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur\n\n\n\n\n\n\n\n\n\nTerlalu apologetik ❌\n\n\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nElegan ✅\n\n\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya - pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
+  },
+  {
+    "objectID": "slides/bagian-2.html#bagaimana-membahas-null-results",
+    "href": "slides/bagian-2.html#bagaimana-membahas-null-results",
+    "title": "Strategi Publikasi",
+    "section": "Bagaimana membahas null results?",
+    "text": "Bagaimana membahas null results?\n\nHasil “negatif” (null) dibahas persis seperti hasil “positif” — dengan struktur dan flow yang sama\nTidak ada perbedaan cara membahasnya, yang perlu diwaspadai adalah bias editor\nEditor jurnal masih cenderung lebih menerima hasil “positif” → naskah null results lebih susah lolos\nTETAPI: jika protokol studi sudah didaftarkan (preregistration) atau sudah melalui Registered Report sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi as it is\nLebih detailnya, saya membahas bagaimana cara melaporkan null results disini\n\n\n\n\n\n\n\nFaktanya\n\n\n61% studi dengan format registered report menghasilkan null results, sementara hanya ~20% artikel tanpa preregistration yang dipublikasi melaporkan hasil negatif (null results, cf. van den Akker, et al., 2024).\nTemuan ini menguatkan dugaan bahwa ada publication bias yang sistemik."
   },
   {
     "objectID": "slides/bagian-2.html#prinsip-dasar-kenali-jurnal-sebelum-submit",
     "href": "slides/bagian-2.html#prinsip-dasar-kenali-jurnal-sebelum-submit",
     "title": "Strategi Publikasi",
     "section": "Prinsip dasar: kenali jurnal sebelum submit",
-    "text": "Prinsip dasar: kenali jurnal sebelum submit\n\nMembaca aims & scope jurnal dengan serius — bukan formalitas yang dilewati\nTelusuri artikel yang diterbitkan 2–3 tahun terakhir: apakah topik Anda relevan?\nPerhatikan gaya penulisan dan struktur naskah yang diterima di jurnal tersebut\nCek author guidelines dengan cermat sebelum mulai menulis atau merevisi\nSatu naskah — satu jurnal pada satu waktu (no simultaneous submissions)\n\n\n\n\n\n\n\nWarning\n\n\nPenting: Submit ke jurnal yang scope-nya tidak cocok = hampir pasti desk reject. Editor bisa langsung melihat ini."
+    "text": "Prinsip dasar: kenali jurnal sebelum submit\n\nMembaca aims & scope jurnal dengan serius — bukan formalitas yang dilewati\nTelusuri artikel yang diterbitkan 2–3 tahun terakhir: apakah topik Anda relevan?\nPerhatikan gaya penulisan dan struktur naskah yang diterima di jurnal tersebut\nCek author guidelines dengan cermat sebelum mulai menulis atau merevisi\nSatu naskah — satu jurnal pada satu waktu (no simultaneous submissions)\n\n\n\n\n\n\n\nPenting\n\n\nSubmit ke jurnal yang scope-nya tidak cocok = hampir pasti desk reject. Editor bisa langsung melihat ini."
   },
   {
     "objectID": "slides/bagian-2.html#dalam-memilih-jurnal",
     "href": "slides/bagian-2.html#dalam-memilih-jurnal",
     "title": "Strategi Publikasi",
     "section": "4️⃣®️ dalam memilih jurnal",
-    "text": "4️⃣®️ dalam memilih jurnal\n\nRelevance — apakah topik Anda benar-benar sesuai dengan scope jurnal?\nReach — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?\nReputation — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya impact factor)\nRealism — apakah naskah Anda kompetitif untuk jurnal tersebut?\n\n\n\n\n\n\n\nNote\n\n\nBonus R: Resources\nBerapa APC yang harus dibayarkan? Apakah ada fee waiver untuk peneliti dari negara berkembang? Cek dulu, karena banyak jurnal yang menyediakan waiver tapi tidak disebutkan secara eksplisit."
+    "text": "4️⃣®️ dalam memilih jurnal\n\nRelevance — apakah topik Anda benar-benar sesuai dengan scope jurnal?\nReach — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?\nReputation — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya impact factor)\nRealism — apakah naskah Anda kompetitif untuk jurnal tersebut?\n\n\n\n\n\n\n\nBonus R: Resources\n\n\nBerapa APC yang harus dibayarkan? Apakah ada fee waiver untuk peneliti dari negara berkembang? Cek dulu, karena banyak jurnal yang menyediakan waiver tapi tidak disebutkan secara eksplisit."
   },
   {
     "objectID": "slides/bagian-2.html#metrik-bukan-ukuran-kualitas-hanya-heuristik",
     "href": "slides/bagian-2.html#metrik-bukan-ukuran-kualitas-hanya-heuristik",
     "title": "Strategi Publikasi",
     "section": "Metrik bukan ukuran kualitas — hanya heuristik",
-    "text": "Metrik bukan ukuran kualitas — hanya heuristik\n\nImpact Factor (JIF), quartile Scopus (Q1–Q4), dan h-index adalah metrik prestise — bukan ukuran kualitas artikel secara langsung\nFungsi praktisnya: membantu seleksi awal target jurnal untuk keperluan PAK atau promosi jabatan\nYang lebih penting untuk dijadikan dasar:\n\nApakah komunitas yang Anda tuju membaca jurnal ini?\nApakah jurnal ini menerbitkan artikel sejenis dengan naskah Anda?\nBerapa lama proses review-nya biasanya?\n\n\n\n\n\n\n\n\nRekomendasi yang sering diberikan peneliti senior\n\n\n*“Submit* di jurnal yang Anda sitir.” Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda."
+    "text": "Metrik bukan ukuran kualitas — hanya heuristik\n\nImpact Factor (JIF), quartile Scopus (Q1–Q4), dan h-index adalah metrik prestise — bukan ukuran kualitas artikel secara langsung\nFungsi praktisnya: membantu seleksi awal target jurnal untuk keperluan PAK atau promosi jabatan\nYang lebih penting untuk dijadikan dasar:\n\nApakah komunitas yang Anda tuju membaca jurnal ini?\nApakah jurnal ini menerbitkan artikel sejenis dengan naskah Anda?\nBerapa lama proses review-nya biasanya?\n\n\n\n\n\n\n\n\nRekomendasi yang sering diberikan peneliti senior\n\n\nSubmit di jurnal yang Anda sering sitir. Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda."
   },
   {
     "objectID": "slides/bagian-2.html#pertimbangan-proses-editorial",
@@ -40,13 +96,6 @@
     "title": "Strategi Publikasi",
     "section": "Strategi khusus untuk review articles",
     "text": "Strategi khusus untuk review articles\n\nScoping dan systematic review punya masih punya tempat di komunitas ilmiah, tetapi kompetisi juga ketat\n\nAda tren scoping dan systematic review lebih sulit diterbitkan karena ada lonjakan tipe artikel yang sama yang berasal dari paper mill\n\nSebelum menulis, lakukan cek duplikasi: apakah review serupa sudah diterbitkan baru-baru ini?\n\nJika ya → naskah Anda harus punya nilai tambah yang jelas\n\nNovelty bisa datang dari: populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat\n\nGunakan strategi systematic search meskipun untuk scoping review\n\nBeberapa jurnal punya section khusus untuk review articles, jadi prioritaskan jurnal-jurnal ini\n\n\n\n\n\n\n\nTips\n\n\nDaftarkan protokol review Anda di PROSPERO sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh reviewer."
-  },
-  {
-    "objectID": "slides/bagian-2.html#faktor-faktor-yang-sering-dilupakan",
-    "href": "slides/bagian-2.html#faktor-faktor-yang-sering-dilupakan",
-    "title": "Strategi Publikasi",
-    "section": "Faktor-faktor yang sering dilupakan",
-    "text": "Faktor-faktor yang sering dilupakan\n\nTurnaround time: berapa lama biasanya dari submit hingga keputusan pertama?\n\nCek di website jurnal atau tanya kolega yang pernah submit ke jurnal tersebut\n\nAPC dan waiver: banyak jurnal OA bereputasi menyediakan waiver untuk penulis dari negara berpenghasilan menengah-bawah\n\nSelalu tanyakan waiver jika tersedia\n\nSubmission charge: 🔴RED FLAG🔴 — jurnal dengan pengelolaan yang baik tidak meminta biaya sebelum peer-review\nKomunikasi editorial: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?"
   },
   {
     "objectID": "slides/bagian-2.html#cover-letter-hal-pertama-yang-editor-baca",
@@ -186,7 +235,7 @@
     "href": "index.html#materi-workshop",
     "title": "Workshop Publikasi Ilmiah",
     "section": "Materi workshop",
-    "text": "Materi workshop\nMateri berlisensi  BY 4.0. Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya.\n\n\n\n\n\n\nNoteUnduh materi dalam bentuk PDF\n\n\n\nKlik navigation bar yang mengarah pada PDF materi, kemudian tekan ctrl dan p bersamaan. Setelah window untuk print muncul, pilih Save to PDF dan klik Save.\n\n\n\nBlok 1️⃣: Ekosistem Publikasi Ilmiah\nMembahas bagaimana dunia publikasi ilmiah bekerja, dari lanskap jurnal dan proses editorial, hingga menulis naskah yang layak terbit.\n\nApa tujuan publikasi ilmiah?\nModa komunikasi kesarjanaan dan jenis artikel ilmiah (original research, systematic review, scoping review, dll.)\nLanskap jurnal: penerbit, pangkalan data dan perbedaan jurnal OA vs. non-OA\nMengenali dan menghindari jurnal/penerbit pemangsa (predatory)\nProses editorial: submission, desk rejection, peer-review, revisi, hingga terbit\nStruktur naskah ilmiah (IMRAD) dan PRISMA guideline untuk artikel meta studies\nApa yang membuat naskah layak terbit: dimensi konten dan presentasi\nMenulis Introduction: struktur corong, research gap, dan model CARS\nMenulis Discussion yang efektif: alur, keterbatasan, dan null results\nMenulis Abstract: prinsip satu kalimat per bagian IMRAD\nLatihan menulis: elevator pitch (3–4 kalimat)\n\n\n\n\n\n\n\nTipMenulis methods dan results\n\n\n\nWorkshop ini tidak akan membahas secara spesifik bagaimana menulis bagian methods dan results karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.\nCek Journal Articles Reporting Standards (JARS):\n\nUntuk penelitian kuantitatif: Checklist; Appelbaum, et al. (2018)\nUntuk penelitian kualitatif: Checklist; Levitt, et al. (2018)\nUntuk penelitian mixed methods: Checklist; Levitt, et al. (2018)\n\n\n\n Buka Materi Blok 1\n\n\nBlok 2️⃣: Strategi Publikasi & Latihan Menulis\nBerfokus pada strategi memilih jurnal dan integritas riset, sekaligus latihan menulis untuk mengartikulasikan ide penelitian secara meyakinkan.\n\nStrategi memilih jurnal\nStrategi khusus untuk review articles\nMenulis cover letter yang efektif dan spesifik\nMenjawab komentar reviewer\nEtika publikasi: kepengarangan, plagiarisme, dan peran promotor\nKrisis replikasi dan mengapa prinsip open science penting\nManajemen data penelitian (RDM)\nLatihan menulis: scientific sell (1 paragraf)\nMenggunakan LLM untuk meneliti dan menulis\n\n Buka Materi Blok 2"
+    "text": "Materi workshop\nMateri berlisensi  BY 4.0. Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya.\n\n\n\n\n\n\nNoteUnduh materi dalam bentuk PDF\n\n\n\nKlik navigation bar yang mengarah pada PDF materi, kemudian tekan ctrl dan p bersamaan. Setelah window untuk print muncul, pilih Save to PDF dan klik Save.\n\n\n\nBlok 1️⃣: Ekosistem Publikasi Ilmiah\nMembahas bagaimana dunia publikasi ilmiah bekerja, dari lanskap jurnal dan proses editorial, hingga menulis naskah yang layak terbit.\n\nApa tujuan publikasi ilmiah?\nModa komunikasi kesarjanaan dan jenis artikel ilmiah (original research, systematic review, scoping review, dll.)\nLanskap jurnal: penerbit, pangkalan data dan perbedaan jurnal OA vs. non-OA\nMengenali dan menghindari jurnal/penerbit pemangsa (predatory)\nProses editorial: submission, desk rejection, peer-review, revisi, hingga terbit\nStruktur naskah ilmiah (IMRAD) dan PRISMA guideline untuk artikel meta studies\nApa yang membuat naskah layak terbit: dimensi konten dan presentasi\nLatihan menulis: elevator pitch (3–4 kalimat)\n\n Buka Materi Blok 1\n\n\nBlok 2️⃣: Strategi Publikasi & Latihan Menulis\nBerfokus pada strategi memilih jurnal, teknik menulis naskah ilmiah, dan integritas riset, sekaligus latihan menulis untuk mengartikulasikan ide penelitian secara meyakinkan.\n\nMenulis Introduction: struktur corong, research gap, dan model CARS\nMenulis Discussion yang efektif: alur, keterbatasan, dan null results\nMenulis Abstract: prinsip satu kalimat per bagian IMRAD\nStrategi memilih jurnal\nStrategi khusus untuk review articles\nMenulis cover letter yang efektif dan spesifik\nMenjawab komentar reviewer\nEtika publikasi: kepengarangan, plagiarisme, dan peran promotor\nKrisis replikasi dan mengapa prinsip open science penting\nManajemen data penelitian (RDM)\nLatihan menulis: scientific sell (1 paragraf)\nMenggunakan LLM untuk meneliti dan menulis\n\n Buka Materi Blok 2\n\n\n\n\n\n\nTipMenulis methods dan results\n\n\n\nWorkshop ini tidak akan membahas secara spesifik bagaimana menulis bagian methods dan results karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.\nCek Journal Articles Reporting Standards (JARS):\n\nUntuk penelitian kuantitatif: Checklist; Appelbaum, et al. (2018)\nUntuk penelitian kualitatif: Checklist; Levitt, et al. (2018)\nUntuk penelitian mixed methods: Checklist; Levitt, et al. (2018)"
   },
   {
     "objectID": "index.html#evaluasi-workshop",
@@ -200,7 +249,7 @@
     "href": "slides/bagian-1.html#outline",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Outline",
-    "text": "Outline\n\nMengapa publikasi itu penting?\nModa komunikasi kesarjanaan & jenis artikel\nLanskap jurnal ilmiah — publisher, pangkalan data, kategorisasi\nWaspada jurnal/penerbit pemangsa\nBagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi\nStruktur naskah ilmiah (IMRAD)\nNaskah yang layak terbit — konten + presentasi naskah\nMenulis Introduction\nMenulis Discussion dan Abstract\nLatihan menulis: elevator pitch"
+    "text": "Outline\n\nMengapa publikasi itu penting?\nModa komunikasi kesarjanaan & jenis artikel\nLanskap jurnal ilmiah — publisher, pangkalan data, kategorisasi\nWaspada jurnal/penerbit pemangsa\nBagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi\nStruktur naskah ilmiah (IMRAD)\nNaskah yang layak terbit — konten + presentasi naskah\nLatihan menulis: elevator pitch"
   },
   {
     "objectID": "slides/bagian-1.html#lebih-dari-sekadar-kewajiban-administratif",
@@ -263,7 +312,7 @@
     "href": "slides/bagian-1.html#pangkalan-data-database",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Pangkalan data (database)",
-    "text": "Pangkalan data (database)\n\nScopus — indeks internasional paling umum digunakan di Indonesia (Elsevier)\nWeb of Science (WoS) / Web of Knowledge — lebih selektif dari Scopus\nAPA PsycNET — khusus literatur psikologi\nEBSCO, JSTOR — multi-disiplin\nDOAJ (Directory of Open Access Journals) — khusus jurnal open access\nSINTA — pangkalan data nasional Indonesia (Kemdikbudristek)\nGoogle Scholar — berguna untuk menemukan artikel, bukan untuk mengklaim kualitas jurnal\n\n\n\n\n\n\n\nPenting\n\n\nTerindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada."
+    "text": "Pangkalan data (database)\n\nScopus — indeks internasional paling umum digunakan di Indonesia (Elsevier)\nWeb of Science (WoS) / Web of Knowledge — lebih selektif dari Scopus\nAPA PsycNET — khusus literatur psikologi\nEBSCO, JSTOR — multi-disiplin\nDOAJ (Directory of Open Access Journals) — khusus jurnal open access\nSINTA — pangkalan data nasional Indonesia (Kemdikbudristek)\nGoogle Scholar — berguna untuk menemukan artikel, bukan untuk mengklaim kualitas jurnal\n\n\n\n\n\n\n\nPenting\n\n\nTerindeks di Scopus ≠ berkualitas baik. Tidak terindeks = sinyal untuk waspada."
   },
   {
     "objectID": "slides/bagian-1.html#open-access-oa-vs-non-oa-journal",
@@ -298,7 +347,7 @@
     "href": "slides/bagian-1.html#cara-mengidentifikasi-cek-dulu-sebelum-submit",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Cara mengidentifikasi — cek dulu sebelum submit!",
-    "text": "Cara mengidentifikasi — cek dulu sebelum submit!\n\nIdentitas jurnal: apakah nama jurnal/penerbit familiar? Ada alamat pos yang valid?\nISSN: cek di portal ISSN resmi (portal.issn.org)\nCek kebijakan jurnal di Open Policy Finder: cek kebijakan jurnal di Open Policy Finder (dulu SHERPA-RoMEO). Kalau jurnal terdaftar di laman terssebut, maka mungkin jurnal tersebut legitimate (asli)\nEditorial board: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?\nBiaya: apakah ada submission charge sebelum review? → 🔴RED FLAG🔴\n\nAPC yang ditagih setelah accepted = normal di jurnal OA bereputasi\n\nTransparansi: apakah proses peer-review dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (turnaround time)?\nKonten: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?"
+    "text": "Cara mengidentifikasi — cek dulu sebelum submit!\n\nIdentitas jurnal: apakah nama jurnal/penerbit familiar? Ada alamat pos yang valid?\nISSN: cek di portal ISSN resmi (portal.issn.org)\nCek kebijakan jurnal di Open Policy Finder: cek kebijakan jurnal di Open Policy Finder (dulu SHERPA-RoMEO). Kalau jurnal terdaftar di laman terssebut, maka mungkin jurnal tersebut legitimate (asli)\nEditorial board: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?\nBiaya: apakah ada submission charge sebelum review? → 🔴RED FLAG🔴\n\nAPC yang ditagih setelah accepted = normal di jurnal OA bereputasi\n\nAPC dan waiver: banyak jurnal OA bereputasi menyediakan waiver untuk penulis dari negara berpenghasilan menengah-bawah\n\nSelalu tanyakan waiver jika tersedia Turnaround time: berapa lama biasanya dari submit hingga keputusan pertama?\n\nTransparansi: apakah proses peer-review dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (turnaround time)?\nKomunikasi editorial: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?\nKonten: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?"
   },
   {
     "objectID": "slides/bagian-1.html#think.-check.-submit.",
@@ -369,62 +418,6 @@
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Rejection bukan akhir dunia👍",
     "text": "Rejection bukan akhir dunia👍\n\nHans Krebs (1937) — Nature menolak naskahnya tentang siklus asam sitrat (citric acid cycle). Terbit di Experientia dan menang hadiah Nobel tahun 1953.\nBarry Marshall (H. pylori) — Abstraknya ditolak dari konferensi tahunan Australian Gastroenterological Society (1983) karena dinilai terlalu jelek oleh reviewer yang menganggap idenya tidak masuk akal. Ia bahkan meminum cawan petri berisi H. pylori untuk membuktikan klaimnya. Menang hadiah Nobel 2005.\nPeter Higgs (Higgs boson) — Physics Letters menolak naskah aslinya (1964). Terbit di Physical Review Letters dan menang hadiah Nobel tahun 2013.\nDan Shechtman (kuasikristal) — Journal of Applied Physics menolak naskahnya (1982); koleganya memintanya meninggalkan kelompok riset, dan bahkan Linus Pauling (peraih Nobel dua kali) merendahkan idenya secara terbuka. Terbit di Physical Review Letters (1984) dan menang hadiah Nobel Kimia 2011.\n\n\n\n\n\n\n\nRejection adalah masalah semua orang\n\n\nKeempat peneliti di atas memenangkan Nobel setelah naskah mereka ditolak. Rejection bukan penilaian akhir atas kualitas riset Anda. Rejection seringkali hanya soal timing, jurnal yang tepat, atau reviewer yang irrationally skeptis."
-  },
-  {
-    "objectID": "slides/bagian-1.html#introduction",
-    "href": "slides/bagian-1.html#introduction",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Introduction",
-    "text": "Introduction\n\nBanyak penulis memperlakukan Introduction sebagai “ringkasan literatur” — padahal fungsinya berbeda\nIntroduction harus menjawab empat pertanyaan secara berurutan:\n\nApa yang sudah diketahui? — konteks dan state of the art\nApa yang belum diketahui/buktinya mixed? — research gap\nMengapa gap ini penting untuk diisi? — justifikasi penelitian\nApa yang akan dilakukan dalam studi ini? — tujuan dan pertanyaan penelitian\n\nStrukturnya seperti corong (funnel): dari luas ke spesifik\n\n\n\n\n\n\n\nCreate a research space (CARS)\n\n\nModel klasik yang berguna: CARS (Create A Research Space, Swales, 1990) — establish a territory → establish a niche → occupy the niche."
-  },
-  {
-    "objectID": "slides/bagian-1.html#menulis-introduction-untuk-review-articles",
-    "href": "slides/bagian-1.html#menulis-introduction-untuk-review-articles",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Menulis Introduction untuk review articles",
-    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim, tapi didukung sitasi\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu\n\n\n\n\n\n\n\nIntroduction membentuk impresi editor\n\n\nIntroduction yang lemah adalah alasan desk rejection terbanyak kedua setelah ketidakcocokan scope."
-  },
-  {
-    "objectID": "slides/bagian-1.html#mengapa-discussion-itu-paling-sulit",
-    "href": "slides/bagian-1.html#mengapa-discussion-itu-paling-sulit",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Mengapa Discussion itu paling sulit?",
-    "text": "Mengapa Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results, tetapi interpretasi dan sintesis atas hasil penelitiat\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi mayor\nGunakan hedging yang tepat ketika menulis Discussion, jangan oversell!\n\nAkan dibahas lebih detail di blok selanjutnya\n\n\n\n\n\n\n\n\nPrinsip utama\n\n\nDiscussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
-  },
-  {
-    "objectID": "slides/bagian-1.html#alur-discussion-yang-efektif",
-    "href": "slides/bagian-1.html#alur-discussion-yang-efektif",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Alur Discussion yang efektif",
-    "text": "Alur Discussion yang efektif\nStruktur Discussion yang baik mengalir dalam tiga bagian:\n\nPembukaan — re-state pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama\n\nBukan mengulang angka dari Results, tetapi sajikan interpretasi atas temuan\n\nBadan — elaborasi dan perbandingan:\n\nInterpretasi mendalam atas temuan\nPerbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?\nImplikasi teoritis dan/atau praktis\n\nPenutup — keterbatasan dan future directions:\n\nUngkapkan keterbatasan penelitian secara jujur\nRekomendasi untuk penelitian selanjutnya"
-  },
-  {
-    "objectID": "slides/bagian-1.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
-    "href": "slides/bagian-1.html#yang-perlu-dipastikan-ada-dan-yang-perlu-dihindari",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Yang perlu dipastikan ada — dan yang perlu dihindari",
-    "text": "Yang perlu dipastikan ada — dan yang perlu dihindari\n\n\nPerlu dipastikan tercantum ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang dideskripsikan secara jujur\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
-  },
-  {
-    "objectID": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
-    "href": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Menulis Abstract — tulis paling terakhir",
-    "text": "Menulis Abstract — tulis paling terakhir\n\nAbstract adalah bagian yang paling sering dibaca — tapi sebaiknya ditulis paling terakhir\nMengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis\nPrinsip: satu kalimat per bagian IMRAD\n\n1 kalimat → latar belakang/konteks dan research gap\n1 kalimat → pertanyaan penelitian / tujuan\n1–2 kalimat → metode\n1–2 kalimat → temuan utama\n1 kalimat → implikasi/kesimpulan\n\nAbstract harus bisa berdiri sendiri, pembaca yang tidak membaca naskah utuh tetap memahami isinya\n\n\n\n\n\n\n\nWarning\n\n\nHindari: menyalin kalimat langsung dari badan naskah. Abstract adalah ringkasan yang berdiri sendiri."
-  },
-  {
-    "objectID": "slides/bagian-1.html#ngeles-dengan-elegan",
-    "href": "slides/bagian-1.html#ngeles-dengan-elegan",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "“Ngeles dengan elegan”",
-    "text": "“Ngeles dengan elegan”\n\nSemua penelitian punya keterbatasan — jangan disembunyikan, justru tuliskan secara transparan\nTapi: membahas keterbatasan bukan berarti apologetic atas kekurangan penelitian Anda\n“Ngeles dengan elegan” = mengakui keterbatasan sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur\n\n\n\n\n\n\n\n\n\nTerlalu apologetik ❌\n\n\n“Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati.”\n\n\n\n\n\n\n\n\n\n\nElegan ✅\n\n\n“Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya - pertanyaan yang selama ini kurang mendapat perhatian dalam literatur.”"
-  },
-  {
-    "objectID": "slides/bagian-1.html#bagaimana-membahas-null-results",
-    "href": "slides/bagian-1.html#bagaimana-membahas-null-results",
-    "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Bagaimana membahas null results?",
-    "text": "Bagaimana membahas null results?\n\nHasil “negatif” (null) dibahas persis seperti hasil “positif” — dengan struktur dan flow yang sama\nTidak ada perbedaan cara membahasnya, yang perlu diwaspadai adalah bias editor\nEditor jurnal masih cenderung lebih menerima hasil “positif” → naskah null results lebih susah lolos\nTETAPI: jika protokol studi sudah didaftarkan (preregistration) atau sudah melalui Registered Report sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi as it is\nLebih detailnya, saya membahas bagaimana cara melaporkan null results disini\n\n\n\n\n\n\n\nFaktanya\n\n\n61% studi dengan format registered report menghasilkan null results, sementara hanya ~20% artikel tanpa preregistration yang dipublikasi melaporkan hasil negatif (null results, cf. van den Akker, et al., 2024).\nTemuan ini menguatkan dugaan bahwa ada publication bias yang sistemik."
   },
   {
     "objectID": "slides/bagian-1.html#tugas-1-elevator-pitch-15-menit",

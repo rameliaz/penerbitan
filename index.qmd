@@ -46,28 +46,17 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 - Proses editorial: *submission*, *desk rejection*, *peer-review*, revisi, hingga terbit
 - Struktur naskah ilmiah (IMRAD) dan [PRISMA _guideline_](https://www.prisma-statement.org/prisma-2020-checklist) untuk artikel *meta studies*
 - Apa yang membuat naskah layak terbit: dimensi konten dan presentasi
-- Menulis *Introduction*: struktur corong, *research gap*, dan model CARS
-- Menulis *Discussion* yang efektif: alur, keterbatasan, dan *null results*
-- Menulis *Abstract*: prinsip satu kalimat per bagian IMRAD
-- **Latihan menulis**: *elevator pitch* (3–4 kalimat) 
-
-::: {.callout-tip}
-#### Menulis _methods_ dan _results_
-_Workshop_ ini **tidak akan membahas** secara spesifik bagaimana menulis bagian _methods_ dan _results_ karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.
-
-Cek _Journal Articles Reporting Standards_ (JARS):
-
-* Untuk penelitian kuantitatif: [_Checklist_](https://apastyle.apa.org/jars/quantitative); [Appelbaum, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-002.pdf)
-* Untuk penelitian kualitatif: [_Checklist_](https://apastyle.apa.org/jars/qualitative); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
-* Untuk penelitian _mixed methods_: [_Checklist_](https://apastyle.apa.org/jars/mixed-methods); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
-:::
+- **Latihan menulis**: *elevator pitch* (3–4 kalimat)
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
 
 ### Blok 2️⃣: Strategi Publikasi & Latihan Menulis
 
-Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
+Berfokus pada **strategi memilih jurnal**, **teknik menulis naskah ilmiah**, dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
 
+- Menulis *Introduction*: struktur corong, *research gap*, dan model CARS
+- Menulis *Discussion* yang efektif: alur, keterbatasan, dan *null results*
+- Menulis *Abstract*: prinsip satu kalimat per bagian IMRAD
 - Strategi memilih jurnal
 - Strategi khusus untuk *review articles*
 - Menulis *cover letter* yang efektif dan spesifik
@@ -79,6 +68,17 @@ Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **
 - Menggunakan LLM untuk meneliti dan menulis
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 2](slides/bagian-2.html){.btn .btn-primary}
+
+::: {.callout-tip}
+#### Menulis _methods_ dan _results_
+_Workshop_ ini **tidak akan membahas** secara spesifik bagaimana menulis bagian _methods_ dan _results_ karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.
+
+Cek _Journal Articles Reporting Standards_ (JARS):
+
+* Untuk penelitian kuantitatif: [_Checklist_](https://apastyle.apa.org/jars/quantitative); [Appelbaum, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-002.pdf)
+* Untuk penelitian kualitatif: [_Checklist_](https://apastyle.apa.org/jars/qualitative); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
+* Untuk penelitian _mixed methods_: [_Checklist_](https://apastyle.apa.org/jars/mixed-methods); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
+:::
 
 ## Evaluasi _workshop_
 

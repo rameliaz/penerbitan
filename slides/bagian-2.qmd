@@ -19,11 +19,184 @@ execute:
 
 ## *Outline*
 
+* Menulis *Introduction*, *Discussion*, dan *Abstract*
 * Strategi memilih jurnal yang tepat
 * Integritas riset dan etika publikasi
 * Manajemen data penelitian (*research data management*)
 * Latihan menulis: *scientific sell*
 * Menggunakan LLM dalam riset dan penulisan
+
+# Menulis Introduction {background-color="#14497F" .center}
+
+## *Introduction*
+
+::: {.incremental}
+* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
+* *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
+  1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
+  2. **Apa yang belum diketahui/buktinya _mixed_?** — *research gap*
+  3. **Mengapa _gap_ ini penting untuk diisi?** — justifikasi penelitian
+  4. **Apa yang akan dilakukan dalam studi ini?** — tujuan dan pertanyaan penelitian
+* Strukturnya seperti **corong** (*funnel*): dari luas ke spesifik
+:::
+
+::: {.callout-note}
+#### Create a research space (CARS)
+Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](https://marymount.edu/academics/wp-content/uploads/sites/3/2021/08/CARS-Model-of-Research-Introductions.pdf)) — *establish a territory → establish a niche → occupy the niche*.
+:::
+
+## Menulis *Introduction* untuk *review articles*
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Yang harus ada** ✅
+
+* Konteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?
+* Bukti bahwa *gap* memang ada — **bukan hanya klaim sepihak dari penulis**, tapi didukung argumen yang memadai
+* Justifikasi *review*: mengapa _review_ ini diperlukan sekarang?
+* Diferensiasi dari review yang sudah ada — apa nilai tambahnya?
+* Tujuan *review* yang spesifik dan terukur
+:::
+:::
+::: {.column}
+::: {.incremental}
+**Yang perlu dihindari** ❌
+
+* Membuka dengan kalimat terlalu umum (*"Kesehatan mental adalah isu penting...", atau "Manusia adalah makhluk sosial..."*)
+* *Gap* yang diklaim tanpa dukungan bukti
+* *"Belum ada penelitian yang..."* — hampir selalu tidak akurat
+* Tujuan yang terlalu luas atau ambigu
+:::
+
+::: {.callout-warning}
+#### *Introduction* membentuk impresi editor
+*Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
+:::
+:::
+::::
+
+# Menulis Discussion dan Abstract {background-color="#14497F" .center}
+
+## Mengapa menulis *Discussion* itu paling sulit?
+
+::: {.incremental}
+* *Discussion* dan *Abstract* adalah **bagian yang paling sering dibaca** dalam sebuah artikel ilmiah
+* *Discussion* bukan ringkasan *Results*, tetapi **interpretasi dan sintesis** atas hasil penelitian
+* Tantangannya: harus **jujur** tentang keterbatasan, sekaligus tetap **meyakinkan** tentang kontribusi naskah
+* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah → ditolak atau diminta revisi mayor
+* Gunakan _hedging_ yang tepat ketika menulis _Discussion_, jangan _oversell_!
+:::
+
+::: {.callout-note}
+#### Prinsip utama
+*Discussion* yang baik menjawab pertanyaan ***"So what?"*** — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?
+:::
+
+## Alur *Discussion* yang efektif
+
+::: {.incremental}
+Struktur *Discussion* yang baik mengalir dalam tiga bagian:
+
+1. **Pembukaan** — *re-state* pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama
+   * Bukan mengulang angka dari *Results*, tetapi sajikan **interpretasi** atas temuan
+
+2. **Badan** — elaborasi dan perbandingan:
+   * Interpretasi mendalam atas temuan
+   * Perbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?
+   * Implikasi teoritis dan/atau praktis
+
+3. **Penutup** — keterbatasan dan _future directions_:
+   * Ungkapkan keterbatasan penelitian secara jujur
+   * Rekomendasi untuk penelitian selanjutnya
+:::
+
+## Yang perlu dipastikan ada — dan yang perlu dihindari
+
+:::: {.columns}
+::: {.column}
+**Perlu dipastikan tercantum** ✅
+
+::: {.incremental}
+* Interpretasi temuan utama
+* Perbandingan dengan literatur yang relevan
+* Implikasi teoritis dan/atau praktis
+* Keterbatasan yang dideskripsikan secara jujur
+* Arah riset ke depan
+:::
+:::
+::: {.column}
+**Perlu dihindari** ❌
+
+::: {.incremental}
+* Mengulang angka dari *Results*
+* Spekulasi berlebihan di luar data
+* Mengabaikan atau meremehkan keterbatasan
+* Klaim kausalitas dari desain non-eksperimental
+* *Discussion* yang terlalu panjang dan repetitif
+:::
+:::
+::::
+
+## Menulis *Abstract* — tulis paling terakhir
+
+::: {.incremental}
+* *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
+* Mengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis
+* Prinsip: **satu kalimat per bagian** IMRAD
+  * 1 kalimat → latar belakang/konteks dan *research gap*
+  * 1 kalimat → pertanyaan penelitian / tujuan
+  * 1–2 kalimat → metode
+  * 1–2 kalimat → temuan utama
+  * 1 kalimat → implikasi/kesimpulan
+* *Abstract* harus bisa **berdiri sendiri**, pembaca yang tidak membaca naskah utuh tetap memahami isinya
+:::
+
+::: {.callout-warning}
+**Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan yang berdiri sendiri**.
+:::
+
+## "_Ngeles_ dengan elegan"
+
+::: {.incremental}
+* Semua penelitian punya keterbatasan — **jangan disembunyikan**, justru tuliskan secara transparan
+* Tapi: membahas keterbatasan **bukan berarti _apologetic_** atas kekurangan penelitian Anda
+* "_Ngeles_ dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur**
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+#### Terlalu apologetik ❌
+
+*"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
+:::
+:::
+::: {.column}
+::: {.callout-note}
+#### Elegan ✅
+
+*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
+:::
+:::
+::::
+
+## Bagaimana membahas *null results*?
+
+::: {.incremental}
+* Hasil "negatif" (*null*) dibahas **persis seperti hasil "positif"** — dengan struktur dan *flow* yang sama
+* Tidak ada perbedaan **cara** membahasnya, yang perlu diwaspadai adalah **bias editor**
+* Editor jurnal masih cenderung lebih menerima hasil "positif" → naskah *null results* lebih susah lolos
+* **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi *as it is*
+* Lebih detailnya, saya membahas [bagaimana cara melaporkan _null results_ disini](https://rameliaz.github.io/tutorial/hasilnegatif.html)
+:::
+
+::: {.callout-note}
+#### Faktanya
+[61% studi dengan format _registered report_](https://www.nature.com/nature-index/news/first-analysis-of-pre-registered-studies-shows-sharp-rise-in-null-findings) menghasilkan *null results*, sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil negatif (_null results_, cf. [van den Akker, et al., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)).
+
+Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
+:::
 
 # Strategi memilih jurnal yang tepat {background-color="#14497F" .center}
 
@@ -38,7 +211,8 @@ execute:
 :::
 
 ::: {.callout-warning}
-**Penting**: *Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
+#### Penting
+*Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
 :::
 
 ## 4️⃣®️ dalam memilih jurnal
@@ -50,7 +224,7 @@ execute:
 * **_Realism_** — apakah naskah Anda kompetitif untuk jurnal tersebut?
 
 ::: {.callout-note}
-**Bonus R**: **_Resources_**
+#### Bonus R: *_Resources_*
 
 Berapa APC yang harus dibayarkan? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek dulu, karena banyak jurnal yang menyediakan _waiver_ tapi tidak disebutkan secara eksplisit.
 :::
@@ -68,8 +242,8 @@ Berapa APC yang harus dibayarkan? Apakah ada *fee waiver* untuk peneliti dari ne
 :::
 
 ::: {.callout-note}
-#### Rekomendasi yang sering diberikan peneliti senior 
-***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda.
+#### Rekomendasi yang sering diberikan peneliti senior
+***Submit* di jurnal yang Anda sering sitir.** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda.
 :::
 
 ## Pertimbangan proses editorial
@@ -102,19 +276,8 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 :::
 
 ::: {.callout-note}
-#### Tips 
+#### Tips
 Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh *reviewer*.
-:::
-
-## Faktor-faktor yang sering dilupakan
-
-::: {.incremental}
-* ***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
-  * Cek di website jurnal atau tanya kolega yang pernah *submit* ke jurnal tersebut
-* **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
-  * Selalu **tanyakan *waiver*** jika tersedia
-* ***Submission charge***: 🔴**RED FLAG**🔴 — jurnal dengan pengelolaan yang baik tidak meminta biaya **sebelum** *peer-review*
-* **Komunikasi editorial**: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?
 :::
 
 ## *Cover letter* — hal pertama yang editor baca
@@ -256,7 +419,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 * Studi terbaru (_project_ SCORE, [Tyner et al., 2026](https://www.nature.com/articles/s41586-025-10078-y)) menunjukkan bahwa **lebih dari separuh (55.1%) klaim ilmiah** yang diterbitkan di jurnal-jurnal ilmu sosial dan perilaku, dalam kurun waktu 2009-2018, dapat dicoba-ulang
 * Penyebab utama: *publication bias* (hanya hasil positif yang diterbitkan), *p-hacking*, *overselling*, desain penelitian yang lemah
 * Implikasinya untuk kita sebagai penulis *review*:
-  * **Hati-hati** dengan menarik kesimpulan dari satu studi 
+  * **Hati-hati** dengan menarik kesimpulan dari satu studi
   * Pertimbangkan **kualitas metodologi** studi yang Anda review, bukan hanya jumlahnya
   * Prinsip *open science* (e.g., transparansi, kredibilitas, coba-ulang - _replication_, dan reka-ulang - _reproducibility_) saat ini merupakan tren global dan sudah menjadi norma baru
 :::
@@ -378,11 +541,11 @@ Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya memb
 * [Claude Code](https://code.claude.com/docs/en/overview)
   - Digunakan sebagai _coding assistant_ dan otomatisasi _workflow_
 
-* [ChatPDF](https://www.chatpdf.com/) ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam 
+* [ChatPDF](https://www.chatpdf.com/) ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam
 
 * [Research Rabbit AI](https://app.researchrabbit.ai/) ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi
 
-* [ScienceOS](https://www.scienceos.ai/) ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif 
+* [ScienceOS](https://www.scienceos.ai/) ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif
   - Model LLM sudah di*fine-tune* agar lebih responsif dengan konteks saintifik
 
 :::
