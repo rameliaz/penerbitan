@@ -164,14 +164,14 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 ::: {.callout-warning}
 #### Terlalu apologetik ❌
 
-*"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
+*"Penelitian ini memiliki terlalu banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi di konteks masyarakat yang lebih luas. Oleh karena itu, kontribusi hasil penelitian ini sangat terbatas mendeskripsikan therapeutic alliance pada konteks yang amat kecil, yaitu warga di kecamatan Gubeng."*
 :::
 :::
 ::: {.column}
 ::: {.callout-note}
 #### Elegan ✅
 
-*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
+*"Meski cakupan studi ini terbatas pada konteks Indonesia, temuan penelitian ini dapat membuka peluang untuk studi komparatif lintas budaya. Aspek validitas lintas budaya dan validitas ekologis dari therapeutic alliance merupakan pertanyaan yang selama ini kurang mendapat perhatian di literatur."*
 :::
 :::
 ::::
@@ -214,14 +214,21 @@ Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 *Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
 :::
 
-## Mengapa naskah di-*desk reject*? Contoh: *Psychological Science*
+## Mengapa naskah di-*desk reject*? 1️⃣
 
 ::: {.incremental}
-Berdasarkan panduan *submission* [*Psychological Science* (per 30 Januari 2026)](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions), alasan *desk reject* pada *initial editorial review* (Tier 1):
+Berdasarkan panduan *submission* [*Psychological Science* (per 30 Januari 2026)](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions), yang saya gunakan sebagai **contoh**, alasan *desk reject* pada *initial editorial review*:
 
 * **Tipe artikel secara eksplisit tidak diharapkan** <i class="fa-solid fa-circle-arrow-right"></i> *meta-analyses and other forms of evidence synthesis are **typically not considered***
 * **Aspek kebaruan yang ditawarkan kurang memadai** <i class="fa-solid fa-circle-arrow-right"></i> harus *"address an issue that makes a difference in the way psychologists think"*; ekstensi inkremental tidak cukup kuat; penekanan pada **inovasi dalam tujuan penelitian dan desain**, bukan sekadar hasil penelitian
 * **_Overclaiming_** <i class="fa-solid fa-circle-arrow-right"></i> kesimpulan yang tidak terkalibrasi dengan bukti atau keterbatasan desain *"are more likely to be rejected"*
+:::
+
+## Mengapa naskah di-*desk reject*? 2️⃣
+
+::: {.incremental}
+Berdasarkan panduan *submission* [*Psychological Science* (per 30 Januari 2026)](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions), yang saya gunakan sebagai **contoh**, alasan *desk reject* pada *initial editorial review*:
+
 * **Ketidakcocokan antara desain dan tujuan** <i class="fa-solid fa-circle-arrow-right"></i> antara *research aims* dan *research design*, atau antara *empirical results* dan *conclusions*
 * **Tanda-tanda fleksibilitas dalam menganalisis data** <i class="fa-solid fa-circle-arrow-right"></i> *signs of flexibility in data collection or analysis* (e.g., *p-hacking*, perubahan hipotesis *post hoc*)
 * **Risiko tinggi *statistical inference error*** <i class="fa-solid fa-circle-arrow-right"></i> *false positive/negative*, *inflated effect size*
@@ -321,8 +328,8 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 * Menerima *review* — apalagi yang keras — bisa memicu reaksi emosional yang wajar
 * **Tunggu 1–2 hari** sebelum mulai merespons
 * Baca **semua** komentar *reviewer* terlebih dahulu, baru mulai menyusun respons
-* Identifikasi: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
-* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru. Tunjukkan kekeliruan _reviewer_ dengan bukti yang memadai.
+* **Lakukan *triage***: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
+* **Jangan pernah membalas dengan nada defensif atau emosional**, bahkan jika *reviewer* keliru. Tunjukkan kekeliruan _reviewer_ dengan bukti yang memadai.
 * Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan untuk membaca dan meninjau naskah kita
 :::
 
@@ -332,12 +339,12 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 * *Response to reviewers* adalah **keterampilan tersendiri** yang harus dipelajari
 * Prinsip dasar: **_copy-paste_ komentar reviewer, jawab, lalu kutip revisinya di naskah**
   - **Tunjukkan dengan jelas** di mana dan bagaimana Anda merespons
-* Setiap komentar *reviewer* harus direspons — tidak ada yang boleh diabaikan
+* Setiap komentar *reviewer* harus direspons, tidak ada yang boleh diabaikan
 * Jika tidak setuju dengan *reviewer*: boleh, tapi **wajib** berikan argumen yang kuat dan berdasar
-* *Major revision* bukan penolakan — ini kesempatan untuk memperbaiki naskah
+* *Major revision* bukan penolakan, justru merupakan kesempatan untuk memperbaiki naskah
 * Berikut contoh _response to reviewers_ yang paling panjang yang pernah saya tulis
-  - **Contoh 1**: [Zein, R. A., Heene, M., & Gollwitzer, M.](/slides/libs/response_letter_firstround_final.pdf) (2025). Stage 2 Registered Report: Measuring How Individuals Relate Science to Religion. The International Journal for the Psychology of Religion. https://doi.org/10.1080/10508619.2025.2535033.
-  - **Contoh 2**: [Zein, R. A. & Akhtar, H.](/slides/libs/response_letter_final.pdf) (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. https://doi.org/10.1002/ijop.13265
+  - **Contoh 1**: [Zein, R. A., Heene, M., & Gollwitzer, M.](/slides/libs/response_letter_firstround_final.pdf) (2025). Stage 2 Registered Report: Measuring How Individuals Relate Science to Religion. *The International Journal for the Psychology of Religion*. <https://doi.org/10.1080/10508619.2025.2535033>.
+  - **Contoh 2**: [Zein, R. A. & Akhtar, H.](/slides/libs/response_letter_final.pdf) (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. *International Journal of Psychology*, 60(1), e13265. <https://doi.org/10.1002/ijop.13265>
 :::
 
 # Integritas riset dan etika publikasi {background-color="#14497F" .center}
@@ -408,7 +415,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 | ⛔Hindari⛔ | ✅Gunakan✅ |
 |---|---|
 | *"membuktikan bahwa..."* | *"mengindikasikan bahwa..."* / *"konsisten dengan..."* |
-| *"belum ada penelitian..."* | *"sejauh yang diketahui peneliti..."* |
+| *"belum ada penelitian..."* | *"pertanyaan ini belum mendapat perhatian yang memadai di litaratur..."* |
 | *"akan mengubah..."* | *"berpotensi berkontribusi pada..."* |
 | *"semua..."* | *"sebagian besar partisipan dalam studi ini..."* |
 | *"selalu terjadi..."* | *"cenderung terjadi dalam konteks..."* |
@@ -423,10 +430,10 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 * **Plagiarisme**: parafrase bukan menyalin. Setiap ide yang bukan milik Anda **harus diatribusikan**
 * ***Ethical clearance***: semakin banyak jurnal internasional mensyaratkan ini, bahkan untuk *review articles* (*PRISMA-P*)
   - Meskipun begitu, perlu/tidaknya _ethical clearance_ sangat tergantung pada kebijakan institusi
-* **Peran promotor**: supervisor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya, bukan hanya formalitas pencantuman nama
+* **Peran promotor**: promotor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya, bukan hanya formalitas pencantuman nama
   - Umumnya, penelitian doktoral adalah **penelitian mandiri** yang dilakukan oleh mahasiswa, bukan penelitian kolaborasi dengan promotor/ko-promotor
   - **Diskusikan secara terbuka** dengan promotor/ko-promotor tentang kontribusi dan peran masing-masing dalam penulisan artikel
-  - Jangan menambahkan nama promotor/ko-promotor **tanpa persetujuan** sebelumnya
+  - Jangan menambahkan nama promotor/ko-promotor **tanpa persetujuan** ybs. sebelumnya
 :::
 
 ## Konteks lebih luas: krisis replikasi
@@ -448,7 +455,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 * **Laporkan proses sedetail mungkin** — termasuk studi yang tidak memenuhi kriteria, dan mengapa
 * Gunakan ***checklist* PRISMA** dengan jujur dan lengkap
 * **Bagikan data ekstraksi** (*data extraction sheets*), jika memungkinkan, sebagai bentuk komitmen pada prinsip *open data*
-  - Kalau menggunakan _software systematic review managemen_ seperti [ASReview](https://asreview.nl/) atau [Rayyan](https://www.rayyan.ai/), maka jelaskan [_stopping rules_](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1762)-nya
+  - Kalau menggunakan _software systematic review managemen_ seperti [ASReview Lab](https://asreview.nl/) atau [Rayyan](https://www.rayyan.ai/), maka jelaskan [_stopping rules_](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1762)-nya
 * **Laporkan *heterogeneity*** dengan transparan, bukan hanya *pooled effect size estimate*
 :::
 
@@ -464,10 +471,10 @@ Praktik *open science* bukan hanya soal etika penelitian, tetapi juga meningkatk
 ::: {.incremental}
 * RDM adalah praktik terstruktur dalam **mengorganisasi, mendokumentasikan, menyimpan, dan berbagi** data penelitian sepanjang siklus hidupnya
 * Untuk penulis *review articles*, "data" mencakup lebih dari sekadar angka:
-  * **Search string** dan strategi penelusuran yang digunakan
+  * ***Search string*** dan strategi penelusuran yang digunakan
   * **Keputusan inklusi/eksklusi** (*screening decisions*) di setiap tahap
   * ***Extraction sheet*** — tabel ekstraksi data dari setiap studi yang dimasukkan
-  * **PRISMA flow diagram** beserta jumlah studi di setiap tahap
+  * **PRISMA *flow diagram*** beserta jumlah studi di setiap tahap
 * Prinsip panduan: **FAIR** — data harus *Findable, Accessible, Interoperable, Reusable*
 :::
 
@@ -548,7 +555,7 @@ Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
 
 ::: {.callout-warning}
 #### Penting
-Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan dengan intervensi dan *oversight* yang sangat mminimal (bukan hanya membantu perbaikan) dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan dalam artikel Anda.
+Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan dengan intervensi dan *oversight* yang sangat minimal (bukan hanya membantu perbaikan) dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan dalam artikel Anda.
 :::
 
 ## _LLM-based software_ yang [membantu saya](https://ameliazein.notion.site/Tinjauan-literatur-terstruktur-d6f40a3a7b7f45efbad1c2cff6e3c418?source=copy_link)
@@ -569,6 +576,11 @@ Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan dengan intervensi
   - Bisa membuat _mindmap_, _flashcards_, _podcast_, visualisasi data, laporan dan presentasi dari berkas pdf yang diunggah
 
 :::
+
+## Contoh *disclosure* penggunaan LLM
+
+![](libs/ai_disclosure_diss.png){fig-align="center" width="80%"}
+![](libs/ai_disclosure.png){fig-align="center" width="80%"}
 
 ## Ada pertanyaan❓
 
